@@ -1,0 +1,4 @@
+Inbound calls list has at least one deployment.
+[Inbound Search] Read 2 inbound(s): demo-1790180858512, demo-1790165634637
+[Inbound Search] "demo-1790180858512" returned: demo-1790180858512
+[Inbound Search] "demo-1790" returned: demo-1790165634637, demo-1790180858512

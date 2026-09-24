@@ -1,0 +1,35 @@
+Active campaigns found.
+Campaign names found: [ 'Demo_Camp_1790181017486', 'Demo_Camp_1790150592721' ]
+Processing campaign: Demo_Camp_1790181017486
+Connection section is visible
+Phone numbers found: [ '+917965853872', '+917965853454' ]
+Phone numbers for Demo_Camp_1790181017486: [ '+917965853872', '+917965853454' ]
+Processing campaign: Demo_Camp_1790150592721
+Connection section is visible
+Phone numbers found: [ '+917965853454', '+917965853811' ]
+Phone numbers for Demo_Camp_1790150592721: [ '+917965853454', '+917965853811' ]
+All phone numbers used by active campaigns: [ '+917965853872', '+917965853454', '+917965853811' ]
+Checking number: +917965853872
+Phone number found: +917965853872
+Opened actions menu for +917965853872
+Archive attempted for +917965853872
+Archive API status for +917965853872: 409
+Archive API response for +917965853872: {"error":{"message":"(409) Conflict","type":"conflict","code":409,"data":{"details":"Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853872. Active campaign IDs: Demo-Camp-1-7401803f-046f"}}}
+Conflict details for +917965853872: Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853872. Active campaign IDs: Demo-Camp-1-7401803f-046f
+SUCCESS: Archive blocked for +917965853872 because it is used by an active outbound campaign
+Checking number: +917965853454
+Phone number found: +917965853454
+Opened actions menu for +917965853454
+Archive attempted for +917965853454
+Archive API status for +917965853454: 409
+Archive API response for +917965853454: {"error":{"message":"(409) Conflict","type":"conflict","code":409,"data":{"details":"Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853454. Active campaign IDs: Demo-Camp-1-08f1f1e2-87e4, Demo-Camp-1-7401803f-046f"}}}
+Conflict details for +917965853454: Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853454. Active campaign IDs: Demo-Camp-1-08f1f1e2-87e4, Demo-Camp-1-7401803f-046f
+SUCCESS: Archive blocked for +917965853454 because it is used by an active outbound campaign
+Checking number: +917965853811
+Phone number found: +917965853811
+Opened actions menu for +917965853811
+Archive attempted for +917965853811
+Archive API status for +917965853811: 409
+Archive API response for +917965853811: {"error":{"message":"(409) Conflict","type":"conflict","code":409,"data":{"details":"Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853811. Active campaign IDs: Demo-Camp-1-08f1f1e2-87e4"}}}
+Conflict details for +917965853811: Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853811. Active campaign IDs: Demo-Camp-1-08f1f1e2-87e4
+SUCCESS: Archive blocked for +917965853811 because it is used by an active outbound campaign

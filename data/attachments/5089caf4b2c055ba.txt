@@ -1,0 +1,61 @@
+[Phone Numbers] Table has loaded its rows.
+=================================================
+[getOrCreateGroup] Starting group check...
+=================================================
+[getOrCreateGroup] Waiting for Number column header...
+[getOrCreateGroup] Phone numbers table is visible.
+[getOrCreateGroup] First row locator count: 1
+[getOrCreateGroup] First phone number row exists.
+[getOrCreateGroup] Number of cells in first row: 8
+[getOrCreateGroup] Raw phone number value: "+917971413658"
+[getOrCreateGroup] Trimmed phone number: "+917971413658"
+[getOrCreateGroup] Raw group name value: "Automation Group 1790180980926"
+[getOrCreateGroup] Trimmed group name: "Automation Group 1790180980926"
+[getOrCreateGroup] Existing group found: "Automation Group 1790180980926"
+[getOrCreateGroup] RETURNING existing group: "Automation Group 1790180980926"
+Scheduling for 10:07:00 PM, ending 10:09:00 PM.
+[Campaign] Creating "Demo_Camp_1790181078411" (attempt 1 of 2)
+[Agent] Selected "Automation Agent 1788329396588" via search.
+[Agent] Version "v1" is committed.
+[Campaign] Step 1 done: agent "Automation Agent 1788329396588", connection "Sarvam Managed (Vobiz)", group "Automation Group 1790180980926".
+[Campaign] Step 2 done: cohort "cohort_sample.csv", phone column "phone_number".
+[Schedule] start: Custom, Sep 23, 2026 · 10:07 PM
+[Schedule] end: Custom, Sep 23, 2026 · 10:09 PM
+[Schedule] Effective: start "Sep 23, 2026 · 10:07 PM", end "Sep 23, 2026 · 10:09 PM", 0.5/s, days "M T W T F S S", calls 09:00 AM - 06:00 PM, retry 3x every 30 min on Busy, No Answer, Failed, Provider Error, Internal Error
+[Campaign] Step 3 done: schedule set.
+=================================================
+[Review] Checking the Review step against what was entered
+=================================================
+[Review] WARNING: Review names the agent "Jersey Store Sales Assistant" but "Automation Agent 1788329396588" was selected. The Review prints the name saved in version v1; if the agent was renamed after that version was committed, this is expected. Otherwise the wrong agent may have been picked.
+[Review] Agent: "Jersey Store Sales Assistant · v1" | Campaign: "Demo_Camp_1790181078411" | Connection: "fc0af4b6-25-2fc2a5c1-d3d5" | Numbers: +917971413658
+[Review] File: "cohort_sample.csv" | Rows: "1 valid · 0 removed"
+[Review] Schedule: "Sep 23, 2026, 10:07 PM" -> "Sep 23, 2026, 10:09 PM" | Allowed time: "09:00 – 18:00" | Days: "M T W T F S S" | CPS: "0.5 calls/sec"
+[Review] Retries: "3 retries · every 30 min · on Busy, No Answer, Failed" | Error retries: "Provider Error · 3x / 5 min · Internal Error · 3x / 5 min"
+[Review] SUCCESS: the Review step matches what was entered. Launching.
+[Campaign] Toast after Launch: "Campaign created successfully"
+[Campaign] "Demo_Camp_1790181078411" launched successfully.
+=================================================
+[Campaign] Holding "Demo_Camp_1790181078411" until 10:07:00 PM. Every reading until 10:04:30 PM must be Scheduled.
+=================================================
+[Campaign] 10:01:39 PM  status: Scheduled  (321s to start)
+[Campaign] 10:02:11 PM  status: Scheduled  (288s to start)
+[Campaign] 10:02:43 PM  status: Scheduled  (256s to start)
+[Campaign] 10:03:15 PM  status: Scheduled  (225s to start)
+[Campaign] 10:03:47 PM  status: Scheduled  (193s to start)
+[Campaign] 10:04:19 PM  status: Scheduled  (161s to start)
+[Campaign] "Demo_Camp_1790181078411" stayed Scheduled across 6 reading(s).
+=================================================
+[Campaign] Waiting for "Demo_Camp_1790181078411" to start. Scheduled start 10:07:00 PM, deadline 10:10:00 PM.
+=================================================
+[Campaign] 10:04:31 PM  status: Scheduled  (148s to start)  [server clock -63s]
+[Campaign] 10:04:49 PM  status: Scheduled  (131s to start)  [server clock -63s]
+[Campaign] 10:05:06 PM  status: Scheduled  (114s to start)  [server clock -62s]
+[Campaign] 10:05:23 PM  status: Scheduled  (97s to start)  [server clock -62s]
+[Campaign] 10:05:40 PM  status: Scheduled  (80s to start)  [server clock -62s]
+[Campaign] 10:05:57 PM  status: Scheduled  (63s to start)  [server clock -63s]
+[Campaign] 10:06:14 PM  status: Scheduled  (46s to start)  [server clock -63s]
+[Campaign] 10:06:31 PM  status: Scheduled  (28s to start)  [server clock -63s]
+[Campaign] 10:06:48 PM  status: Scheduled  (12s to start)  [server clock -62s]
+[Campaign] 10:07:06 PM  status: Active  [server clock -62s]
+[Campaign] "Demo_Camp_1790181078411" is Active. Scheduled 10:07:00 PM; first seen Active at 10:07:06 PM local (server clock -62s).
+[Campaign] EARLY START: "Demo_Camp_1790181078411" was scheduled for 10:07:00 PM but was already Active 56s before that, measured against the SERVER clock (offset -62s, so this is not test-machine clock drift). Polling every 15s, so the true figure is between 56s and 71s early.

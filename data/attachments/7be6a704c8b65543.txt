@@ -1,0 +1,136 @@
+Inbound calls list has at least one deployment.
+Inbound calls list: 1 deployment(s)
+  demo-1790165634637 | Active | +917971413658
+Phone numbers used by inbounds (any status): +917971413658
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] "Active campaigns" tab is selected.
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] "Active campaigns" tab is selected.
+[Campaign Search] Cleared the search box.
+[Status Filter] Dropdown opened.
+[Status Filter] Applied filter: "All statuses"
+[Status Filter] Read 1 campaign(s) across every page.
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] "Active campaigns" tab is selected.
+[Status Filter] Dropdown opened.
+[Status Filter] Applied filter: "All statuses"
+=================================================
+[Campaign Search] Searching for: "Demo_Camp_1790150592721"
+=================================================
+[Campaign Search] Typed "Demo_Camp_1790150592721".
+[Restore Verification] All numbers tab opened.
+Phone number found: +917965853454
+Opened actions menu for +917965853454
+Archive attempted for +917965853454
+Archive API status for +917965853454: 409
+Archive API response for +917965853454: {"error":{"message":"(409) Conflict","type":"conflict","code":409,"data":{"details":"Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853454. Active campaign IDs: Demo-Camp-1-08f1f1e2-87e4"}}}
+Conflict details for +917965853454: Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853454. Active campaign IDs: Demo-Camp-1-08f1f1e2-87e4
+SUCCESS: Archive blocked for +917965853454 because it is used by an active outbound campaign
+Phone number found: +917965853811
+Opened actions menu for +917965853811
+Archive attempted for +917965853811
+Archive API status for +917965853811: 409
+Archive API response for +917965853811: {"error":{"message":"(409) Conflict","type":"conflict","code":409,"data":{"details":"Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853811. Active campaign IDs: Demo-Camp-1-08f1f1e2-87e4"}}}
+Conflict details for +917965853811: Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853811. Active campaign IDs: Demo-Camp-1-08f1f1e2-87e4
+SUCCESS: Archive blocked for +917965853811 because it is used by an active outbound campaign
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] "Active campaigns" tab is selected.
+[Status Filter] Dropdown opened.
+[Status Filter] Applied filter: "All statuses"
+=================================================
+[Campaign Search] Searching for: "Demo_Camp_1790150592721"
+=================================================
+[Campaign Search] Typed "Demo_Camp_1790150592721".
+=================================================
+[Pause Campaign] Campaign: "Demo_Camp_1790150592721"
+=================================================
+[Pause Campaign] Outbound Campaigns page is visible.
+[Pause Campaign] Total campaign rows found: 1
+[Pause Campaign] Checking row 1: "Demo_Camp_1790150592721"
+[Pause Campaign] Campaign found: "Demo_Camp_1790150592721"
+[Pause Campaign] Opened campaign "Demo_Camp_1790150592721".
+[Pause Campaign] Campaign detail page loaded.
+[Pause Campaign] Campaign "Demo_Camp_1790150592721" is ACTIVE.
+[Pause Campaign] Proceeding with pause operation...
+[Pause Campaign] Actions menu opened.
+[Pause Campaign] "Pause" option is visible.
+[Pause Campaign] "Pause" option clicked.
+[Pause Campaign] Pause Campaign confirmation dialog is visible.
+[Pause Campaign] Correct campaign is shown in confirmation dialog.
+[Pause Campaign] Confirming pause...
+[Pause Campaign] Confirmation dialog closed.
+[Pause Campaign] SUCCESS TOAST: Campaign status updated successfully.
+[Pause Campaign] SUCCESS: Campaign "Demo_Camp_1790150592721" is PAUSED.
+[Restore Verification] All numbers tab opened.
+Phone number found: +917965853454
+Selected phone number: +917965853454
+Archived tab opened
+SUCCESS: +917965853454 = Archived
+SUCCESS: Verified 1 archived numbers
+[Restore Verification] All numbers tab opened.
+Phone number found: +917965853811
+Selected phone number: +917965853811
+Archived tab opened
+SUCCESS: +917965853811 = Archived
+SUCCESS: Verified 1 archived numbers
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] "Active campaigns" tab is selected.
+[Status Filter] Dropdown opened.
+[Status Filter] Applied filter: "All statuses"
+=================================================
+[Campaign Search] Searching for: "Demo_Camp_1790150592721"
+=================================================
+[Campaign Search] Typed "Demo_Camp_1790150592721".
+=================================================
+[Resume Campaign] Campaign: "Demo_Camp_1790150592721"
+=================================================
+[Resume Campaign] Outbound campaigns page is visible.
+[Resume Campaign] Total campaign rows found: 1
+[Resume Campaign] Checking row 1: "Demo_Camp_1790150592721"
+[Resume Campaign] Campaign found: "Demo_Camp_1790150592721"
+[Resume Campaign] Campaign "Demo_Camp_1790150592721" is PAUSED.
+[Resume Campaign] Opened campaign "Demo_Camp_1790150592721".
+[Resume Campaign] Campaign detail page loaded.
+[Resume Campaign] Campaign "Demo_Camp_1790150592721" confirmed PAUSED.
+[Resume Campaign] Actions menu opened.
+[Resume Campaign] "Resume" option is visible.
+[Resume Campaign] "Resume" option clicked.
+[Resume Campaign] Resume Campaign confirmation dialog is visible.
+[Resume Campaign] Correct campaign is shown in confirmation dialog.
+[Resume Campaign] Confirming resume...
+[Resume Campaign] Confirmation dialog closed.
+[Resume Campaign] Toast received: "Campaign status updated successfully".
+[Resume Campaign] SUCCESS: Campaign "Demo_Camp_1790150592721" is now SCHEDULED.
+[Campaign] Waiting for "Demo_Camp_1790150592721" to become Active (up to 3 min).
+[Campaign] 9:56:26 PM  status: Scheduled
+[Campaign] 9:56:43 PM  status: Scheduled
+[Campaign] 9:57:00 PM  status: Scheduled
+[Campaign] 9:57:17 PM  status: Active
+[Campaign] "Demo_Camp_1790150592721" is Active.
+Campaign "Demo_Camp_1790150592721" is displayed correctly.
+Expected numbers: [ '+917965853454', '+917965853811' ]
+Actual campaign numbers: [ '+917965853454', '+917965853811' ]
+Campaign "Demo_Camp_1790150592721" has the expected phone numbers.
+Archived tab opened
+SUCCESS: +917965853454 = Archived
+SUCCESS: +917965853811 = Archived
+SUCCESS: Verified 2 archived numbers
+[BUG REPRODUCED] Campaign "Demo_Camp_1790150592721" became Active after resume while its numbers remained Archived: +917965853454, +917965853811
+[Restore Verification] All numbers tab opened.
+Phone number found: +917965853454
+[Restore] Clicking Restore...
+[Restore] SUCCESS: 1 number restored
+[Restore Verification] All numbers tab opened.
+Phone number found: +917965853811
+[Restore] Clicking Restore...
+[Restore] SUCCESS: 1 number restored

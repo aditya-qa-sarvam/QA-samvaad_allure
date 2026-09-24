@@ -1,0 +1,6 @@
+A Completed known-callers list is already available.
+CSV downloads saved: [
+  'D:\\Project_S\\Version_2.8\\playwright demo\\test-results\\deploy-Inbound_call-Samvaa-81a53-st-CSV-twice-column-mapping-chromium\\known-callers-csv-1.csv',
+  'D:\\Project_S\\Version_2.8\\playwright demo\\test-results\\deploy-Inbound_call-Samvaa-81a53-st-CSV-twice-column-mapping-chromium\\known-callers-csv-2.csv'
+]
+Column mapping saved: D:\Project_S\Version_2.8\playwright demo\test-results\deploy-Inbound_call-Samvaa-81a53-st-CSV-twice-column-mapping-chromium\column-mapping-Parichit_Callers716_cohort_transformation.json

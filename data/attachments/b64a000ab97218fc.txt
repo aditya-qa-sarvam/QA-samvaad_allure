@@ -1,0 +1,23 @@
+=================================================
+[DND] Opening the DND list
+=================================================
+[DND] Clicked the DND list button.
+[DND] DND list page loaded.
+[DND] The DND list already has numbers.
+[DND] Exported file: dnd-numbers-2026-09-23.csv
+[DND] Export holds 2 number(s): [ '9181882891', '9999999999' ]
+[DND] Deleting 1: [ '9181882891' ]
+[DND] Keeping 1: [ '9999999999' ]
+[DND] Wrote bulk delete CSV: D:\Project_S\Version_2.8\playwright demo\test-results\deploy-outboundcampaign-DN-1acc8-tive-Bulk-delete-from-a-CSV-chromium\dnd-bulk-delete.csv
+phone_number
+9181882891
+
+[DND] Dismissed 1 toast(s).
+[DND] Opened the bulk delete dialog.
+[DND] Bulk delete dialog is open and Delete is disabled.
+[DND] Attached CSV: D:\Project_S\Version_2.8\playwright demo\test-results\deploy-outboundcampaign-DN-1acc8-tive-Bulk-delete-from-a-CSV-chromium\dnd-bulk-delete.csv
+[DND] "dnd-bulk-delete.csv" is attached.
+[DND] Toast: Bulk delete complete: 1 deleted
+[DND] Bulk delete submitted and the dialog closed.
+[DND] +919181882891 was removed.
+[DND] +919999999999 was correctly left alone.

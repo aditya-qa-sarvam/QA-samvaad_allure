@@ -1,0 +1,22 @@
+=================================================
+[DND] Opening the DND list
+=================================================
+[DND] Clicked the DND list button.
+[DND] DND list page loaded.
+Phone number to add twice: 9182508029
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "9182508029" with reason "Automation 1790182508029".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919182508029" is on the list
+=================================================
+[DND] SUCCESS: +919182508029 is listed with reason "Automation 1790182508029", added by rgoel766@gmail.com, at 23 Sep 2026, 10:24 PM.
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "9182508029" with reason "Automation 1790182508029".
+[DND] Duplicate number was correctly rejected.
+[DND] Add DND numbers dialog closed.
+[DND] Dismissed 2 toast(s).
+[DND] Removed +919182508029 from the DND list.

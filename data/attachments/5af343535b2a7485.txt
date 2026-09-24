@@ -1,0 +1,54 @@
+=================================================
+[DND] Opening the DND list
+=================================================
+[DND] Clicked the DND list button.
+[DND] DND list page loaded.
+[DND] The DND list is empty.
+The DND list is empty. Adding numbers to work with.
+=================================================
+[DND] Adding 2 number(s) to the DND list
+=================================================
+[DND] Adding 1 of 2: 9182555686 ("Automation 1790182555686")
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Add is correctly disabled on an empty form.
+[DND] Entered number "9182555686" with reason "Automation 1790182555686".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919182555686" is on the list
+=================================================
+[DND] SUCCESS: +919182555686 is listed with reason "Automation 1790182555686", added by rgoel766@gmail.com, at 23 Sep 2026, 10:24 PM.
+[DND] Adding 2 of 2: 9182556708 ("Automation 1790182556708")
+[DND] Dismissed 1 toast(s).
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "9182556708" with reason "Automation 1790182556708".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919182556708" is on the list
+=================================================
+[DND] SUCCESS: +919182556708 is listed with reason "Automation 1790182556708", added by rgoel766@gmail.com, at 23 Sep 2026, 10:24 PM.
+[DND] Added 2 number(s) in total.
+[DND] Dismissed 1 toast(s).
+[DND] Exported file: dnd-numbers-2026-09-23.csv
+[DND] Export holds 2 number(s): [ '9182555686', '9182556708' ]
+[DND] Wrote bulk delete CSV: D:\Project_S\Version_2.8\playwright demo\fixtures\data\alter_dnd_sample.csv
+mobile
+9182555686
+9182556708
+
+[DND] Dismissed 1 toast(s).
+[DND] Opened the bulk delete dialog.
+[DND] Bulk delete dialog is open and Delete is disabled.
+[DND] Attached CSV: D:\Project_S\Version_2.8\playwright demo\fixtures\data\alter_dnd_sample.csv
+[DND] "alter_dnd_sample.csv" is attached.
+[DND] The wrong-header CSV was correctly rejected.
+[DND] Closed the bulk delete dialog.
+[DND] +919182555686 was correctly left alone.
+[DND] +919182556708 was correctly left alone.
+[DND] Dismissed 1 toast(s).
+[DND] Removed +919182555686 from the DND list.
+[DND] Dismissed 1 toast(s).
+[DND] Removed +919182556708 from the DND list.

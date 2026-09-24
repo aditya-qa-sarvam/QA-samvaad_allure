@@ -1,0 +1,53 @@
+=================================================
+[DND] Opening the DND list
+=================================================
+[DND] Clicked the DND list button.
+[DND] DND list page loaded.
+[DND] The DND list is empty.
+=================================================
+[DND] Adding 2 number(s) to the DND list
+=================================================
+[DND] Adding 1 of 2: 9182578028 ("Automation 1790182578028")
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Add is correctly disabled on an empty form.
+[DND] Entered number "9182578028" with reason "Automation 1790182578028".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919182578028" is on the list
+=================================================
+[DND] SUCCESS: +919182578028 is listed with reason "Automation 1790182578028", added by rgoel766@gmail.com, at 23 Sep 2026, 10:25 PM.
+[DND] Adding 2 of 2: 9182578977 ("Automation 1790182578977")
+[DND] Dismissed 1 toast(s).
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "9182578977" with reason "Automation 1790182578977".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919182578977" is on the list
+=================================================
+[DND] SUCCESS: +919182578977 is listed with reason "Automation 1790182578977", added by rgoel766@gmail.com, at 23 Sep 2026, 10:25 PM.
+[DND] Added 2 number(s) in total.
+[DND] Dismissed 1 toast(s).
+[DND] Exported file: dnd-numbers-2026-09-23.csv
+[DND] Export holds 2 number(s): [ '9182578028', '9182578977' ]
+Numbers that should not be found: [ '9182580911', '9182580912' ]
+[DND] Wrote bulk delete CSV: D:\Project_S\Version_2.8\playwright demo\test-results\deploy-outboundcampaign-DN-aa718-rs-that-are-not-on-the-list-chromium\dnd-bulk-delete.csv
+phone_number
+9182580911
+9182580912
+
+[DND] Dismissed 1 toast(s).
+[DND] Opened the bulk delete dialog.
+[DND] Bulk delete dialog is open and Delete is disabled.
+[DND] Attached CSV: D:\Project_S\Version_2.8\playwright demo\test-results\deploy-outboundcampaign-DN-aa718-rs-that-are-not-on-the-list-chromium\dnd-bulk-delete.csv
+[DND] Toast: Bulk delete complete: 2 not found
+[DND] The bulk delete dialog closed on its own.
+[DND] +919182578028 was correctly left alone.
+[DND] +919182578977 was correctly left alone.
+[DND] Dismissed 1 toast(s).
+[DND] Removed +919182578028 from the DND list.
+[DND] Dismissed 1 toast(s).
+[DND] Removed +919182578977 from the DND list.

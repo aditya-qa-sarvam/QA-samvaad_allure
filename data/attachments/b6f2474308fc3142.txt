@@ -1,0 +1,11 @@
+Deletable inbound: "demo-1790180858512"
+Lifecycle test is using: demo-1790180858512
+Inbound "demo-1790180858512" is Active: +917971413918.
+Inbound "demo-1790180858512" is Paused: +917971413918.
+Inbound "demo-1790180858512" is Paused: +917971413918.
+Inbound "demo-1790180858512" is Active: +917971413918.
+Inbound "demo-1790180858512" is Active: +917971413918.
+"Add known callers" dialog is open for "demo-1790180858512".
+Attached "known-callers-sample.csv".
+Mapped Phone Number -> phone_number.
+Added "Parichit_Callers933" from the row menu.
