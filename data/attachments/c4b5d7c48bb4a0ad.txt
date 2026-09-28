@@ -1,0 +1,22 @@
+=================================================
+[DND] Opening the DND list
+=================================================
+[DND] Clicked the DND list button.
+[DND] DND list page loaded.
+Phone number to add twice: 9590553445
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "9590553445" with reason "Automation 1790590553445".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919590553445" is on the list
+=================================================
+[DND] SUCCESS: +919590553445 is listed with reason "Automation 1790590553445", added by rgoel766@gmail.com, at 28 Sep 2026, 03:43 PM.
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "9590553445" with reason "Automation 1790590553445".
+[DND] Duplicate number was correctly rejected.
+[DND] Add DND numbers dialog closed.
+[DND] Dismissed 2 toast(s).
+[DND] Removed +919590553445 from the DND list.

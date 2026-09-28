@@ -1,0 +1,29 @@
+=================================================
+[Resume Campaign] Campaign: "Demo_Camp_1790588950882"
+=================================================
+[Resume Campaign] Outbound campaigns page is visible.
+[Resume Campaign] Total campaign rows found: 2
+[Resume Campaign] Checking row 1: "Demo_Camp_1790588950882"
+[Resume Campaign] Campaign found: "Demo_Camp_1790588950882"
+[Resume Campaign] Campaign "Demo_Camp_1790588950882" is PAUSED.
+[Resume Campaign] Opened campaign "Demo_Camp_1790588950882".
+[Resume Campaign] Campaign detail page loaded.
+[Resume Campaign] Campaign "Demo_Camp_1790588950882" confirmed PAUSED.
+[Resume Campaign] Actions menu opened.
+[Resume Campaign] "Resume" option is visible.
+[Resume Campaign] "Resume" option clicked.
+[Resume Campaign] Resume Campaign confirmation dialog is visible.
+[Resume Campaign] Correct campaign is shown in confirmation dialog.
+[Resume Campaign] Confirming resume...
+[Resume Campaign] Confirmation dialog closed.
+[Resume Campaign] Toast received: "Campaign status updated successfully".
+[Resume Campaign] SUCCESS: Campaign "Demo_Camp_1790588950882" is now SCHEDULED.
+[Campaign] Waiting for "Demo_Camp_1790588950882" to become Active (up to 4 min).
+[Campaign] 3:32:35 PM  status: Scheduled
+[Campaign] 3:32:54 PM  status: Scheduled
+[Campaign] 3:33:13 PM  status: Scheduled
+[Campaign] 3:33:34 PM  status: Scheduled
+[Campaign] 3:33:52 PM  status: Scheduled
+[Campaign] 3:34:11 PM  status: Active
+[Campaign] "Demo_Camp_1790588950882" is Active.
+Campaign "Demo_Camp_1790588950882" resumed and running again.

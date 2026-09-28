@@ -1,0 +1,38 @@
+Filtered by agent: All Agents
+Filtered by campaign: All Campaigns
+Selected metric: Total minutes
+Selected metric: Calls attempted
+[Calls attempted] Trend buckets: [{"time_bucket":"2026-09-22 00:00:00","value":51,"percentage":null},{"time_bucket":"2026-09-23 00:00:00","value":62,"percentage":null},{"time_bucket":"2026-09-24 00:00:00","value":75,"percentage":null},{"time_bucket":"2026-09-25 00:00:00","value":57,"percentage":null},{"time_bucket":"2026-09-26 00:00:00","value":24,"percentage":null},{"time_bucket":"2026-09-28 00:00:00","value":13,"percentage":null}]
+[Calls attempted] Calculated total: 282, Card value: 282
+SUCCESS: "Calls attempted" card (282) matches the trend payload total (282).
+Selected metric: Total minutes
+Selected metric: Connected calls
+[Connected calls] Trend buckets: [{"time_bucket":"2026-09-22 00:00:00","value":25,"percentage":49.02},{"time_bucket":"2026-09-23 00:00:00","value":47,"percentage":75.81},{"time_bucket":"2026-09-24 00:00:00","value":62,"percentage":82.67},{"time_bucket":"2026-09-25 00:00:00","value":34,"percentage":59.65},{"time_bucket":"2026-09-26 00:00:00","value":18,"percentage":75},{"time_bucket":"2026-09-28 00:00:00","value":7,"percentage":53.85}]
+[Connected calls] Calculated total: 193, Card value: 193
+SUCCESS: "Connected calls" card (193) matches the trend payload total (193).
+Selected metric: Total minutes
+Selected metric: Connected calls
+Selected metric: Total minutes
+Selected metric: Latency
+[Latency] Trend buckets: [{"time_bucket":"2026-09-22 00:00:00","value":286,"percentage":null},{"time_bucket":"2026-09-23 00:00:00","value":134,"percentage":null},{"time_bucket":"2026-09-24 00:00:00","value":140,"percentage":null},{"time_bucket":"2026-09-25 00:00:00","value":370,"percentage":null},{"time_bucket":"2026-09-26 00:00:00","value":243,"percentage":null},{"time_bucket":"2026-09-28 00:00:00","value":120,"percentage":null}]
+[Connected calls] Trend buckets (weights): [{"time_bucket":"2026-09-22 00:00:00","value":25,"percentage":49.02},{"time_bucket":"2026-09-23 00:00:00","value":47,"percentage":75.81},{"time_bucket":"2026-09-24 00:00:00","value":62,"percentage":82.67},{"time_bucket":"2026-09-25 00:00:00","value":34,"percentage":59.65},{"time_bucket":"2026-09-26 00:00:00","value":18,"percentage":75},{"time_bucket":"2026-09-28 00:00:00","value":7,"percentage":53.85}]
+[Latency] Connected-calls-weighted average: 206.85 -> rounded 207, Card value: 207
+SUCCESS: "Latency" card (207) matches the connected-calls-weighted trend average (207).
+Selected metric: Total minutes
+Selected metric: Connected calls
+Selected metric: Total minutes
+Selected metric: Avg call duration
+[Avg call duration] Trend buckets: [{"time_bucket":"2026-09-22 00:00:00","value":110.09,"percentage":null},{"time_bucket":"2026-09-23 00:00:00","value":10.79,"percentage":null},{"time_bucket":"2026-09-24 00:00:00","value":19.53,"percentage":null},{"time_bucket":"2026-09-25 00:00:00","value":24.81,"percentage":null},{"time_bucket":"2026-09-26 00:00:00","value":10.68,"percentage":null},{"time_bucket":"2026-09-28 00:00:00","value":6.92,"percentage":null}]
+[Connected calls] Trend buckets (weights): [{"time_bucket":"2026-09-22 00:00:00","value":25,"percentage":49.02},{"time_bucket":"2026-09-23 00:00:00","value":47,"percentage":75.81},{"time_bucket":"2026-09-24 00:00:00","value":62,"percentage":82.67},{"time_bucket":"2026-09-25 00:00:00","value":34,"percentage":59.65},{"time_bucket":"2026-09-26 00:00:00","value":18,"percentage":75},{"time_bucket":"2026-09-28 00:00:00","value":7,"percentage":53.85}]
+[Avg call duration] Connected-calls-weighted average: 28.78 -> rounded 29, Card value: 29
+SUCCESS: "Avg call duration" card (29) matches the connected-calls-weighted trend average (29).
+Selected metric: Short calls
+Selected metric: Total minutes
+[Total minutes] Trend buckets: [{"time_bucket":"2026-09-22 00:00:00","value":62,"percentage":null},{"time_bucket":"2026-09-23 00:00:00","value":48,"percentage":null},{"time_bucket":"2026-09-24 00:00:00","value":69,"percentage":null},{"time_bucket":"2026-09-25 00:00:00","value":40,"percentage":null},{"time_bucket":"2026-09-26 00:00:00","value":18,"percentage":null},{"time_bucket":"2026-09-28 00:00:00","value":7,"percentage":null}]
+[Total minutes] Calculated total: 244, Card value: 244
+SUCCESS: "Total minutes" card (244) matches the trend payload total (244).
+Selected metric: Total minutes
+Selected metric: Short calls
+[Short calls] Trend buckets: [{"time_bucket":"2026-09-22 00:00:00","value":1,"percentage":4},{"time_bucket":"2026-09-23 00:00:00","value":1,"percentage":2.13},{"time_bucket":"2026-09-24 00:00:00","value":26,"percentage":41.94},{"time_bucket":"2026-09-25 00:00:00","value":3,"percentage":8.82},{"time_bucket":"2026-09-26 00:00:00","value":1,"percentage":5.56},{"time_bucket":"2026-09-28 00:00:00","value":0,"percentage":0}]
+[Short calls] Calculated total: 32, Card value: 32
+SUCCESS: "Short calls" card (32) matches the trend payload total (32).

@@ -1,0 +1,63 @@
+Inbound calls list has at least one deployment.
+Inbound calls list: 3 deployment(s)
+  demo-1790414484144 | Active | +917971413918
+  demo-1790341037566-2026-09-25 | Active | +917971413658
+  demo-1790337659207-2026-09-25 | Active | +917965853454
+Phone numbers used by inbounds (any status): +917971413918, +917971413658, +917965853454
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] No tab list -- the page shows only Past campaigns, so there are no Active campaigns.
+[Restore Verification] All numbers tab opened.
+=================================================
+[listPhoneNumbers] Reading the phone numbers table...
+=================================================
+[listPhoneNumbers] 10 number(s) listed:
+[listPhoneNumbers]   +917971413658  ->  Automation Group 1790414468062
+[listPhoneNumbers]   +917971413918  ->  Automation Group 1790414480851
+[listPhoneNumbers]   +917965853872  ->  Automation Group 1790512537951
+[listPhoneNumbers]   +917965853454  ->  Automation Group 1790512537951
+[listPhoneNumbers]   +917965853811  ->  —
+[listPhoneNumbers]   +917965853577  ->  —
+[listPhoneNumbers]   +918065354066  ->  —
+[listPhoneNumbers]   +918071582911  ->  —
+[listPhoneNumbers]   +918071582891  ->  —
+[listPhoneNumbers]   +918071582826  ->  —
+[Bug Setup] Found 2 Active candidate phone number(s): +917965853872, +917965853811
+Move to unassigned clicked
+Group created successfully: Automation Group 1790588514712
+SUCCESS: +917965853872 successfully added to "Automation Group 1790588514712"
+Added date: 10 Sept 2026, 01:53 am
+SUCCESS: +917965853811 successfully added to "Automation Group 1790588514712"
+Added date: 1 Sept 2026, 03:25 pm
+[Campaign] Creating "Demo_Camp_1790588516374" (attempt 1 of 2)
+[Agent] Selected "Automation Agent 1788329396588" via search.
+[Agent] Version "v1" is committed.
+[Campaign] Step 1 done: agent "Automation Agent 1788329396588", connection "Sarvam Managed (Vobiz)", group "Automation Group 1790588514712".
+[Campaign] Step 2 done: cohort "cohort_sample.csv", phone column "phone_number".
+[Schedule] start: Now
+[Schedule] end: Custom, left at the app's own default "Sep 28, 2026 · 11:59 PM" (clock now 3:12:06 PM)
+[Schedule] Effective: start "Now", end "Sep 28, 2026 · 11:59 PM", 0.5/s, days "M T W T F S S", calls 09:00 AM - 06:00 PM, retry 3x every 30 min on Busy, No Answer, Failed, Provider Error, Internal Error
+[Campaign] Step 3 done: schedule set.
+=================================================
+[Review] Checking the Review step against what was entered
+=================================================
+[Review] WARNING: Review names the agent "Jersey Store Sales Assistant" but "Automation Agent 1788329396588" was selected. The Review prints the name saved in version v1; if the agent was renamed after that version was committed, this is expected. Otherwise the wrong agent may have been picked.
+[Review] Agent: "Jersey Store Sales Assistant · v1" | Campaign: "Demo_Camp_1790588516374" | Connection: "fc0af4b6-25-2fc2a5c1-d3d5" | Numbers: +917965853872, +917965853811
+[Review] File: "cohort_sample.csv" | Rows: "1 valid · 0 removed"
+[Review] Schedule: "Now" -> "Sep 28, 2026, 11:59 PM" | Allowed time: "09:00 – 18:00" | Days: "M T W T F S S" | CPS: "0.5 calls/sec"
+[Review] Retries: "3 retries · every 30 min · on Busy, No Answer, Failed" | Error retries: "Provider Error · 3x / 5 min · Internal Error · 3x / 5 min"
+[Review] SUCCESS: the Review step matches what was entered. Launching.
+[Campaign] Toast after Launch: "Campaign created successfully"
+[Campaign] "Demo_Camp_1790588516374" launched successfully.
+[Campaign] Waiting for "Demo_Camp_1790588516374" to become Active (up to 3 min).
+[Campaign] 3:12:11 PM  status: Scheduled
+[Campaign] 3:12:29 PM  status: Scheduled
+[Campaign] 3:12:48 PM  status: Scheduled
+[Campaign] 3:13:06 PM  status: Scheduled
+[Campaign] 3:13:26 PM  status: Scheduled
+[Campaign] 3:13:43 PM  status: Scheduled
+[Campaign] 3:14:01 PM  status: Scheduled
+[Campaign] 3:14:20 PM  status: Scheduled
+[Campaign] 3:14:38 PM  status: Scheduled
+[Campaign] 3:14:56 PM  status: Scheduled
