@@ -1,0 +1,505 @@
+app_id,interaction_id,user_id,duration_in_seconds,usage_cost,telephony_cost,start_datetime,end_datetime,attempted_at,language_name,num_messages,average_agent_response_time_in_seconds,average_user_response_time_in_seconds,user_contact_masked,user_contact_hashed,user_contact,bot_contact_identifier,channel_direction,retry_attempt,campaign_id,cohort_id,is_debug_call,audio_url,job_id,deployment_id,channel_type,channel_protocol,server_retry_attempt,failure_reason,end_reason,has_log_issues,provider_type,app_version,transcript,transcript_en,agent_variables.auto_var_1789471235755_32,agent_variables.auto_var_1789583749670_614,agent_variables.auto_var_1789623132377_389,agent_variables.auto_var_1789728754394_537,agent_variables.auto_var_1790180718210_557,agent_variables.call_disposition,agent_variables.call_summary,agent_variables.caller_phone,agent_variables.gender,agent_variables.instruction_var_1789471261660_736,agent_variables.instruction_var_1789583782782_732,agent_variables.instruction_var_1789728777476_270,agent_variables.instruction_var_1790180737907_645,agent_variables.jersey_club_or_team,agent_variables.jersey_player_name,agent_variables.jersey_size,agent_variables.order_price,agent_variables.user_name
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-16:47:28-4a24c45f,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,97.96,9.0,0.8,"Oct 01, 2026, 04:47:28 PM","Oct 01, 2026, 04:49:06 PM","Oct 01, 2026, 04:47:28 PM",Tamil,17,1.01,1.94,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fDKWxzLmozgZ_3NPF3x8fDEzfHx8sthcoq3CZWM_ISnffQUuQypHkrWoKFayMXFyawE=,+917971413918,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,0,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-16:47:28-4a24c45f&audio_hash=merged_audio,NO_JOB_ID,inbound-96c4e591-cf43,v2v,websocket,1,NO_FAILURE_REASON,AGENT_ENDS,0,stitched_audio_v2,8,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: क्या आपके पास मैनचेस्टर यूनाइटेड की जर्सी है?
+Assistant: हाँ जी, हमारे पास मैनचेस्टर यूनाइटेड की जर्सी उपलब्ध है। क्या आप किसी खास player का नाम प्रिंट करवाना चाहते हैं?
+User: Can you speak in Hindi?
+Assistant: हाँ जी, मैं हिंदी में बात कर सकता हूँ। तो, क्या आप मैनचेस्टर यूनाइटेड की जर्सी पर किसी player का नाम लिखवाना चाहते हैं?
+User: कैन यू स्पीक इन इंग्लिश?
+Assistant: Sure, I can speak in English. So, did you want a specific player's name on that Manchester United jersey?
+User: Can you speak in Telugu?
+Assistant: తప్పకుండా, నేను తెలుగులో మాట్లాడగలను. మీరు అడిగిన Manchester United jersey మీద ఏదైనా player పేరు ప్రింట్ చేయించాలా?
+User: కెన్ యు స్పీక్ ఇన్ తమిళ్?
+Assistant: நிச்சயமா, நான் தமிழ்ல பேசுவேன். சரி, நீங்க கேட்ட Manchester United jersey-ல ஏதாவது player பேர் print பண்ணனுமா?
+User: ஓகே, நோ தேங்க்ஸ்.
+Assistant: சரிங்க, பரவால. அப்போ உங்களுக்கு என்ன size வேணும்னு சொல்லுங்க? S, M, L, XL, XXL-னு எல்லா size-உம் இருக்கு.
+User: நோ, தேங்க்ஸ்.
+Assistant: சரிங்க, உங்களுக்கு இப்போதைக்கு எதுவும் வேண்டாம்னா பரவால. ProKit Jerseys-க்கு கால் பண்ணதுக்கு ரொம்ப தேங்க்ஸ். உங்க நாள் நல்லா அமையட்டும்!
+User: தேங்க்யூ ஃபார் காலிங்.
+Assistant: ரொம்ப தேங்க்ஸ், பாய்!","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: Do you have the Manchester United jersey?
+Agent: Yes, we have the Manchester United jersey available. Do you want to get a specific player's name printed on it?
+User: Can you speak in Hindi?
+Agent: Yes, I can speak in Hindi. So, do you want to have a player's name written on the Manchester United jersey?
+User: Can you speak in English?
+Agent: Sure, I can speak in English. So, did you want a specific player's name on that Manchester United jersey?
+User: Can you speak in Telugu?
+Agent: Sure, I can speak in Telugu. Do you want to print any player's name on the Manchester United jersey you asked about?
+User: Can you speak in Tamil?
+Agent: Sure, I will speak in Tamil. Okay, do you want any player's name printed on the Manchester United jersey you asked for?
+User: Okay, no thanks.
+Agent: Alright, that's fine. Then please tell me what size you need? All sizes like S, M, L, XL, XXL are available.
+User: No, thanks.
+Agent: Alright, it's okay if you don't need anything for now. Thank you very much for calling ProKit Jerseys. Have a great day!
+User: Thank you for calling.
+Agent: Thank you very much, bye!",50,50,50,50,50,not_interested,"The user inquired about the availability of a Manchester United jersey. Throughout the call, the user tested the AI agent's multilingual capabilities, switching between Hindi, English, Telugu, and Tamil. After the agent successfully responded in Tamil, the user declined further assistance regarding customization or sizing and ended the call.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Not specified,S,Not specified,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-15:56:50-1f091712,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,16.94,4.5,0.4,"Oct 01, 2026, 03:56:50 PM","Oct 01, 2026, 03:57:01 PM","Oct 01, 2026, 03:56:50 PM",English,3,1.42,0.81,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fBrDV8r5BLV8PoCoyXx8fDEzfHx8Kfuir7UvoXCrxVEcgEprn7rebYKTWcnoIkYhSY8=,+917971413658,outbound,2,demo-d615b91d-465f,contacts-12dfbc5d-5c6d,0,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-15:56:50-1f091712&audio_hash=merged_audio,01a0f6e6-5c9b-739c-ae72-b09be108a057,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,8,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: Can you speak in Hindi?
+Assistant: हाँ जी, बिल्कुल! ProKit Jerseys में आपका स्वागत है। मैं माया हूँ। बताइए, आप कौन सी jersey ढूँढ रहे हैं? कोई club jersey या national team वाली?","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: Can you speak in Hindi?
+Agent: Yes, absolutely! Welcome to ProKit Jerseys. I am Maya. Tell me, which jersey are you looking for? A club jersey or a national team one?",Rahul Sharma,50,50,50,50,not_interested,"The user called ProKit Jerseys and requested the agent to speak in Hindi. The agent complied and welcomed the user in Hindi, asking what type of jersey they were looking for.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Not specified,Not specified,S,Not specified,
+ProKit-Jers-0b29894d-70b9,20261001/db7d558f-15:26:47-bddbb9b0,a7111547d2f715112c7d10ecdaef14df1a16cce817b50174a90e31016e57579a,120.38,13.5,1.2,"Oct 01, 2026, 03:26:48 PM","Oct 01, 2026, 03:28:47 PM","Oct 01, 2026, 03:26:48 PM",Hindi,17,0.75,2.78,+91******7723,a7111547d2f715112c7d10ecdaef14df1a16cce817b50174a90e31016e57579a,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fAteRrIsTs8laQGsz3x8fDEzfHx8z3mO9ZidhUYQeG4jKk3_FZWQkPcsRBAjEwV8_1o=,+917971413658,outbound,1,demo-d615b91d-465f,contacts-12dfbc5d-5c6d,0,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db7d558f-15:26:47-bddbb9b0&audio_hash=merged_audio,01a0f6e2-fd27-7417-af5e-f9244c399885,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,TIMEOUT,0,stitched_audio_v2,8,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: मुझे हिंदी में बात करनी है। मुझे हिंदी आती है। आप हिंदी में बात कर सकते हैं?
+Assistant: हाँ जी, मैं हिंदी में बात कर सकता हूँ। बताइए, आप कौन सी jersey ढूँढ रहे हैं? कोई club jersey या national team वाली?
+User: क्या मुझे विराट कोहली की जर्सी?
+Assistant: अरे, विराट कोहली क्रिकेट खेलते हैं और हम यहाँ football jerseys बेचते हैं। क्या आप किसी football player या team की jersey लेना चाहेंगे?
+User: भाई मैं तो विराट कोहली की जर्सी लेना चाहूँगा। क्या आप दे सकते हैं?
+Assistant: सॉरी भाई, पर हम सिर्फ football jerseys ही बेचते हैं। विराट कोहली की jersey हमारे पास available नहीं है। क्या आप किसी football team की jersey देखना चाहेंगे?
+User: मुझे फुटबॉल के बारे में ज्यादा पता नहीं है, तो क्या आप कोई प्लेयर बता सकते हैं जिसकी सेल्फी हम ले सकें जो विराट कोहली जैसा हो?
+Assistant: अच्छा, मैं समझ गया। अगर आपको विराट कोहली जैसा कोई दमदार player चाहिए, तो आप Cristiano Ronaldo या Lionel Messi की jersey देख सकते हैं। ये football की दुनिया के सबसे बड़े नाम हैं। क्या इनमें से कोई आपको suit करेगा?
+User: मुझे लगता है मैसी की जर्सी हम ले सकते हैं।
+Assistant: अरे वाह, बढ़िया choice है! अब बस ये बता दीजिए कि आपको Messi की club jersey चाहिए या Argentina national team वाली?
+User: कौन सा भी बढ़िया है।
+Assistant: वैसे Argentina वाली jersey काफी popular है। क्या मैं आपके लिए Argentina national team की jersey check करूँ?
+User: अगर वो पॉपुलर है तो सबके पास वही होगी तो आपने दूसरी वाली सीखिए।
+Assistant: सही बात है! तो फिर Messi की club jersey देखते हैं। क्या आप चाहते हैं कि jersey पर player का नाम और number printed हो?
+User: जी नंबर चलेगा नाम की जरूरत नहीं।
+Assistant: ठीक है, सिर्फ number printed रहेगा। अब आप अपनी size बता दीजिए, जैसे S, M, L, XL या XXL?","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: I want to speak in Hindi. I know Hindi. Can you speak in Hindi?
+Agent: Yes, I can speak in Hindi. Tell me, which jersey are you looking for? A club jersey or a national team one?
+User: Can I get Virat Kohli's jersey?
+Agent: Oh, Virat Kohli plays cricket and we sell football jerseys here. Would you like to get a jersey of any football player or team?
+User: Brother, I would like to take Virat Kohli's jersey. Can you provide it?
+Agent: Sorry brother, but we only sell football jerseys. Virat Kohli's jersey is not available with us. Would you like to see a jersey of any football team?
+User: I don't know much about football, so can you suggest a player whose jersey we can take who is like Virat Kohli?
+Agent: I see, I understand. If you want a powerful player like Virat Kohli, you can look at Cristiano Ronaldo or Lionel Messi's jerseys. They are the biggest names in the world of football. Would any of these suit you?
+User: I think we can take Messi's jersey.
+Agent: Oh wow, great choice! Now just tell me if you want Messi's club jersey or the Argentina national team one?
+User: Either one is fine.
+Agent: Actually, the Argentina jersey is quite popular. Should I check the Argentina national team jersey for you?
+User: If that one is popular, then everyone will have it, so check the other one.
+Agent: That's true! In that case, let's look at Messi's club jersey. Do you want the player's name and number printed on the jersey?
+User: Yes, the number will do, no need for the name.
+Agent: Alright, only the number will be printed. Now please tell me your size, such as S, M, L, XL, or XXL?",Priya Singh,50,50,50,50,not_interested,"The user contacted ProKit Jerseys looking for a Virat Kohli jersey. The agent explained that they only sell football jerseys. After the agent suggested Cristiano Ronaldo and Lionel Messi as equivalents in football, the user decided to purchase a Messi jersey. The user opted for the club jersey (instead of the national team one to be unique) and requested only the player's number to be printed, without the name. The call ended with the agent asking for the user's size.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Club,Lionel Messi,unspecified,unspecified,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-15:26:06-fabcf9fb,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,120.5,13.5,1.2,"Oct 01, 2026, 03:26:06 PM","Oct 01, 2026, 03:28:06 PM","Oct 01, 2026, 03:26:06 PM",Hindi,15,0.91,4.54,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fBPz3zT4umKpOXRPe3x8fDEzfHx8PND_q9VPOT4J8RoLwSWlWjk9uKaQN9kU1kxzp9I=,+917971413918,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,0,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-15:26:06-fabcf9fb&audio_hash=merged_audio,NO_JOB_ID,inbound-96c4e591-cf43,v2v,websocket,1,NO_FAILURE_REASON,TIMEOUT,0,stitched_audio_v2,8,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: क्या आपके पास मैनचेस्टर यूनाइटेड की जर्सी है?
+Assistant: हाँ जी, हमारे पास Manchester United की जर्सी available है। क्या आप किसी खास player का नाम प्रिंट करवाना चाहते हैं?
+User: प्लेन वन भी सही रहेगी।
+Assistant: ठीक है, plain जर्सी भी बढ़िया रहेगी। अब आप मुझे अपना size बता दीजिए, ताकि मैं check कर सकूँ कि वो available है या नहीं। अरे, अभी भी साथ हो? बस उस जर्सी के बारे में पूछ रहा था जो तुम ढूंढ रहे थे।
+User: क्या आप हिंदी में बात कर सकते हैं?
+Assistant: हाँ जी, मैं हिंदी में ही बात कर रहा हूँ। आप बस अपना size बता दीजिए, फिर मैं check करता हूँ कि Manchester United की plain जर्सी available है या नहीं।
+User: कैन यू स्पीक इन इंग्लिश?
+Assistant: Sure, I can speak in English! So, we were talking about the plain Manchester United jersey. What size would you like?
+User: मैं मीडियम साइज ढूंढ रहा हूं क्या आपके पास वो है?
+Assistant: एक मिनट रुकिए, मैं check करता हूँ कि Medium size available है या नहीं।
+User: क्या आप पंजाबी में बात कर सकते हैं?
+Assistant: ਹਾਂਜੀ, ਮੈਂ ਪੰਜਾਬੀ ਵਿੱਚ ਗੱਲ ਕਰ ਸਕਦਾ ਹਾਂ। ਅਸੀਂ Manchester United ਦੀ plain ਜਰਸੀ ਬਾਰੇ ਗੱਲ ਕਰ ਰਹੇ ਸੀ, ਮੈਂ check ਕਰਦਾ ਹਾਂ ਕਿ Medium size available ਹੈ ਜਾਂ ਨਹੀਂ।
+User: ਨੋ ਥੈਂਕਸ।
+Assistant: ਕੋਈ ਗੱਲ ਨਹੀਂ ਜੀ। ਜੇ ਤੁਹਾਨੂੰ ਕਦੇ ਵੀ ਜਰਸੀ ਚਾਹੀਦੀ ਹੋਵੇ ਤਾਂ ਤੁਸੀਂ ਫਿਰ call ਕਰ ਸਕਦੇ ਹੋ। ਧੰਨਵਾਦ!
+
+","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: Do you have the Manchester United jersey?
+Agent: Yes, we have the Manchester United jersey available. Do you want to get a specific player's name printed on it?
+User: A plain one would also be fine.
+Agent: Okay, a plain jersey will also be great. Now please tell me your size so I can check if it is available or not.
+Agent: Hey, are you still there? I was just asking about the jersey you were looking for.
+User: Can you speak in Hindi?
+Agent: Yes, I am speaking in Hindi. Just tell me your size, then I will check if the plain Manchester United jersey is available or not.
+User: Can you speak in English?
+Agent: Sure, I can speak in English! So, we were talking about the plain Manchester United jersey. What size would you like?
+User: I am looking for a medium size, do you have that?
+Agent: Please wait a minute, I will check if the medium size is available or not.
+User: Can you speak in Punjabi?
+Agent: Yes, I can speak in Punjabi. We were talking about the Manchester United plain jersey, I will check if the medium size is available or not.
+User: No thanks.
+Agent: No problem. If you ever need a jersey, you can call again. Thank you!",50,50,50,50,50,not_interested,"The customer inquired about the availability of a plain Manchester United jersey in medium size. The agent confirmed availability and attempted to process the request. Throughout the call, the customer repeatedly switched preferred languages (Hindi, English, and Punjabi). Ultimately, the customer declined further assistance and ended the call.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Plain,M,None,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-15:17:45-3c5b6b8b,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,11.05,0.0,0.0,"Oct 01, 2026, 03:17:45 PM","Oct 01, 2026, 03:17:53 PM","Oct 01, 2026, 03:17:45 PM",English,1,0.0,0.0,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fOJwF0-IaKYmJybTCXx8fDEzfHx8hAFElz2bROE5sEH3TPtLu4qduT02i-tWj_8WlJA=,+917971402143,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-15:17:45-3c5b6b8b&audio_hash=merged_audio,ed487613-e8ba-431d-aa50-5cc228b9a5c4,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/828a661f-15:17:25-2bec8ade,3a190ec5dd3e4212951a4cf5e5643bed6c2350a1d6a6eb5e84a6f3a7aa55bdc6,30.4,0.0,0.0,"Oct 01, 2026, 03:17:25 PM","Oct 01, 2026, 03:17:48 PM","Oct 01, 2026, 03:17:25 PM",English,1,0.0,0.0,+91******1046,3a190ec5dd3e4212951a4cf5e5643bed6c2350a1d6a6eb5e84a6f3a7aa55bdc6,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fBF-VNLd1t3yMuLPonx8fDEzfHx8_bf2s8NiTp2G-qexA5g3Zm-n5XPw8S6uFGONeuE=,+918040266332,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/828a661f-15:17:25-2bec8ade&audio_hash=merged_audio,af635fa6-83e6-48e7-9022-a2a8075c7b09,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific? Hey, still with me? Just checking on that jersey you were looking for.","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+Agent: Hey, still with me? Just checking on that jersey you were looking for.",50,50,50,50,50,not_interested,"The AI agent, Maya from ProKit Jerseys, greeted the customer and asked if they were looking for a club, national team, or specific jersey. The customer did not respond, leading the agent to follow up to check if they were still on the line.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,None,None,unspecified,None,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:17:08-820532b1,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,3.62,0.0,0.0,"Oct 01, 2026, 03:17:08 PM","Oct 01, 2026, 03:17:08 PM","Oct 01, 2026, 03:17:08 PM",English,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fKIG9Pnv1pvy1c8Jwnx8fDE4fHx8lYoClGn3lWlVrSxlWIQKYVCupj0MAjRlqIGgv5D_452opw==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:17:08-820532b1&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:16:22-e8119cb3,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,15.05,0.0,0.0,"Oct 01, 2026, 03:16:22 PM","Oct 01, 2026, 03:16:31 PM","Oct 01, 2026, 03:16:22 PM",Telugu,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fFu9DSr7rOsfg8xHTXx8fDE4fHx8BRP0FSPcWMr_QMu7dHHyd_ehAv_3-oEGeXDIYB-naNWXzA==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:16:22-e8119cb3&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: నమస్కారం, ప్రోకిట్ జెర్సీస్‌కి కాల్ చేసినందుకు థాంక్స్! నేను మాయని. మీరు క్లబ్ జెర్సీ కోసం చూస్తున్నారా, నేషనల్ టీమ్ జెర్సీనా లేక ఇంకేదైనా స్పెసిఫిక్‌గా కావాలా?","Agent: Hello, thanks for calling ProKit Jerseys! I am Mayani. Are you looking for a club jersey, a national team jersey, or do you need something else specifically?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:15:51-29ce0351,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,20.88,0.0,0.0,"Oct 01, 2026, 03:15:51 PM","Oct 01, 2026, 03:16:03 PM","Oct 01, 2026, 03:15:51 PM",Tamil,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fAEZRer6AVycJF4hkXx8fDE4fHx8i7-dXLuvG0x6Y16btGa1bAGm3AQr9kzJO-mQI1tkaUodVA==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:15:51-29ce0351&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: வணக்கம், ப்ரோகிட் ஜெர்ஸிக்கிற்கு கால் பண்ணதுக்கு ரொம்ப நன்றி! நான் மாயா பேசுறேன். உங்களுக்கு கிளப் ஜெர்சி வேணுமா, நேஷனல் டீம் ஜெர்சி வேணுமா, இல்ல வேற ஏதாவது ஸ்பெசிஃபிக்கா தேடுறீங்களா?","Agent: Hello, thank you very much for calling ProKit Jerseys! I am Maya speaking. Do you want a club jersey, a national team jersey, or are you looking for something else specifically?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:15:37-7c92bcb5,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,10.97,0.0,0.0,"Oct 01, 2026, 03:15:38 PM","Oct 01, 2026, 03:15:48 PM","Oct 01, 2026, 03:15:38 PM",Punjabi,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fLzKLBZFPaHGoBHvJ3x8fDE4fHx8eWFFk9SRHVAglBdv_lr0FOJMhIOLHSivGXdd1AKKBfz3TA==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:15:37-7c92bcb5&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, ProKit Jerseys ਨੂੰ ਫੋਨ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ! ਮੈਂ ਮਾਇਆ ਹਾਂ। ਤੁਸੀਂ ਕਲੱਬ ਜਰਸੀ, ਨੈਸ਼ਨਲ ਟੀਮ ਦੀ ਜਰਸੀ ਜਾਂ ਕੁਝ ਖਾਸ ਲੱਭ ਰਹੇ ਹੋ?","Agent: Sat Sri Akal, thank you for calling ProKit Jerseys! I am Maya. Are you looking for club jerseys, national team jerseys, or something specific?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-15:15:02-12c8be3c,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,16.94,0.0,0.0,"Oct 01, 2026, 03:15:02 PM","Oct 01, 2026, 03:15:12 PM","Oct 01, 2026, 03:15:02 PM",Punjabi,1,0.0,0.0,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fIT7FwyeuGWaNVb4xnx8fDEzfHx8Q0ZqdYgNWZ-H46lcWON98XKD-bKcnoyStj1MnKY=,+918045695363,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-15:15:02-12c8be3c&audio_hash=merged_audio,9c296f85-4d54-4a42-8af5-6d9d30974db1,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, ProKit Jerseys ਨੂੰ ਫੋਨ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ! ਮੈਂ ਮਾਇਆ ਹਾਂ। ਤੁਸੀਂ ਕਲੱਬ ਜਰਸੀ, ਨੈਸ਼ਨਲ ਟੀਮ ਦੀ ਜਰਸੀ ਜਾਂ ਕੁਝ ਖਾਸ ਲੱਭ ਰਹੇ ਹੋ?","Agent: Sat Sri Akal, thank you for calling ProKit Jerseys! I am Maya. Are you looking for club jerseys, national team jerseys, or something specific?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-15:13:58-9ad5e40b,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,13.07,0.0,0.0,"Oct 01, 2026, 03:13:58 PM","Oct 01, 2026, 03:14:08 PM","Oct 01, 2026, 03:13:58 PM",Odia,1,0.0,0.0,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fCm4tYScLofkh1e5knx8fDEzfHx8iz9VhcAT7UTv3HZ3ifTvu9R1surXqkhBNWxH2z0=,+918045695363,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-15:13:58-9ad5e40b&audio_hash=merged_audio,572af1c1-ef3f-4be9-97cd-8edfb6c21ace,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: ନମସ୍କାର, ProKit Jerseys କୁ କଲ୍ କରିଥିବାରୁ ଧନ୍ୟବାଦ! ମୁଁ ମାୟା। ଆପଣ କ’ଣ କ୍ଲବ୍ ଜର୍ସି,ା ନ୍ୟାସନାଲ ଟିମ୍ ଜର୍ସି କିମ୍ବା ଅଲଗା କିଛି ଖୋଜୁଛନ୍ତି?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for club jerseys, national team jerseys, or something else?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-15:13:08-f7c5251f,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,11.89,0.0,0.0,"Oct 01, 2026, 03:13:08 PM","Oct 01, 2026, 03:13:17 PM","Oct 01, 2026, 03:13:08 PM",Marathi,1,0.0,0.0,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fMlyARF55QGtzJZ47Hx8fDEzfHx8WxcX5hsRoEquFZnUlq2O3gD9OTW-mbCAMc8scDI=,+917315173875,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-15:13:08-f7c5251f&audio_hash=merged_audio,8c9a7fc0-003e-4afe-b5e5-54e0ed9125bc,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: नमस्ते, प्रोकिट जर्सीजला कॉल केल्याबद्दल धन्यवाद! मी माया आहे. तुम्हाला क्लब जर्सी, नॅशनल टीम जर्सी किंवा अजून काही खास हवंय का?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or something else special?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:12:35-7d9df925,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,11.29,0.0,0.0,"Oct 01, 2026, 03:12:35 PM","Oct 01, 2026, 03:12:44 PM","Oct 01, 2026, 03:12:35 PM",Marathi,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fEo9_eSOnfSxIHwTT3x8fDE4fHx8-rG72zcbjvmGPUHPZW18K0fECXr3S2PvEQSn0I0dTZSe6Q==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:12:35-7d9df925&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: नमस्ते, प्रोकिट जर्सीजला कॉल केल्याबद्दल धन्यवाद! मी माया आहे. तुम्हाला क्लब जर्सी, नॅशनल टीम जर्सी किंवा अजून काही खास हवंय का?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or something else special?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:12:09-e9e4756c,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,6.41,0.0,0.0,"Oct 01, 2026, 03:12:09 PM","Oct 01, 2026, 03:12:09 PM","Oct 01, 2026, 03:12:09 PM",Kannada,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fFWOH4SzhKNsxpTDTHx8fDE4fHx8cJ-owWaLy4l9fDqJ0uCnLeut9XIjgZ3hL-eef0InIUsC8Q==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:12:09-e9e4756c&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: ಹಲೋ, ಪ್ರೊಕಿಟ್ ಜರ್ಸಿಸ್‌ಗೆ ಕರೆ ಮಾಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು! ನಾನು ಮಾಯಾ. ನೀವು ಕ್ಲಬ್ ಜರ್ಸಿ, ನ್ಯಾಷನಲ್ ಟೀಮ್ ಜರ್ಸಿ ಅಥವಾ ಬೇರೆ ಯಾವುದಾದರೂ ಸ್ಪೆಷಲ್ ಜರ್ಸಿ ಹುಡುಕ್ತಾ ಇದ್ದೀರಾ?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or any other special jersey?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:11:06-195c1c87,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,9.33,0.0,0.0,"Oct 01, 2026, 03:11:06 PM","Oct 01, 2026, 03:11:07 PM","Oct 01, 2026, 03:11:06 PM",Kannada,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fLAHkJpyXrRTDuPfZXx8fDE4fHx8C-WZ0WcX7gedGp939DBmEmnlcw7Oo2uyiCTOdMBEto0vcg==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:11:06-195c1c87&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: ಹಲೋ, ಪ್ರೊಕಿಟ್ ಜರ್ಸಿಸ್‌ಗೆ ಕರೆ ಮಾಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು! ನಾನು ಮಾಯಾ. ನೀವು ಕ್ಲಬ್ ಜರ್ಸಿ, ನ್ಯಾಷನಲ್ ಟೀಮ್ ಜರ್ಸಿ ಅಥವಾ ಬೇರೆ ಯಾವುದಾದರೂ ಸ್ಪೆಷಲ್ ಜರ್ಸಿ ಹುಡುಕ್ತಾ ಇದ್ದೀರಾ?","Agent: Hello, thank you for calling Prokit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or any other special jersey?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:10:42-2ca38447,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,7.56,0.0,0.0,"Oct 01, 2026, 03:10:42 PM","Oct 01, 2026, 03:10:43 PM","Oct 01, 2026, 03:10:42 PM",Kannada,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fK_Vw9AKwGN-q83qK3x8fDE4fHx8p7GijMXhAPmvogEOiomwg7XFcvZpgMgjnyoIwqo5L0xHew==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:10:42-2ca38447&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: ಹಲೋ, ಪ್ರೊಕಿಟ್ ಜರ್ಸಿಸ್‌ಗೆ ಕರೆ ಮಾಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು! ನಾನು ಮಾಯಾ. ನೀವು ಕ್ಲಬ್ ಜರ್ಸಿ, ನ್ಯಾಷನಲ್ ಟೀಮ್ ಜರ್ಸಿ ಅಥವಾ ಬೇರೆ ಯಾವುದಾದರೂ ಸ್ಪೆಷಲ್ ಜರ್ಸಿ ಹುಡುಕ್ತಾ ಇದ್ದೀರಾ?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or any other special jersey?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-15:05:27-82718151,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,182.69,0.0,0.0,"Oct 01, 2026, 03:05:27 PM","Oct 01, 2026, 03:08:30 PM","Oct 01, 2026, 03:05:27 PM",English,25,1.06,4.55,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fE7CcXOm0jdGxydLoXx8fDEzfHx8zqphWwpyDuG4mSGrxKZdrc90TUice5iuO2Xfr6g=,+918040266408,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-15:05:27-82718151&audio_hash=merged_audio,6c79208c-6e17-42c5-8a3a-fc9b5e50ee12,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,AGENT_ENDS,0,stitched_audio_v2,9,"Assistant: નમસ્તે, પ્રોકિટ જર્સીઝમાં ફોન કરવા બદલ આભાર! હું માયા છું. તમે ક્લબ જર્સી, નેશનલ ટીમ જર્સી કે બીજું કંઈક ખાસ શોધી રહ્યા છો?
+User: Do you have Manchester United jersey?
+Assistant: Yes, we do! Would you like a specific player's name printed on it, or just the plain club jersey?
+User: सिर्फ प्लेन जर्सी सही रहेगा।
+Assistant: Got it, a plain jersey it is. What size are you looking for? We have small, medium, large, extra large, and double extra large.
+User: Can you speak in English?
+Assistant: I am speaking in English! So, which size would you like for that plain Manchester United jersey?
+User: क्या मैं दो मिनट तक सो सकता हूँ?
+Assistant: Um, I am not sure I follow. Are you asking for a break, or maybe you are just browsing? Let me know if you still want that jersey!
+User: क्या मुझे कल जर्सी मिल सकती है?
+Assistant: Actually, delivery usually takes three to five business days after the order is confirmed. So, getting it by tomorrow might not be possible. Does that work for you?
+User: Okay, no issues.
+Assistant: Great! Now, just let me know which size you need, and I can check the price for you.
+User: Can you say the same thing in Telugu?
+Assistant: సరే, మీకు ఏ size కావాలో చెబితే, నేను price check చేసి చెబుతాను.
+User: Okay, can you speak in Odia?
+Assistant: ଠିକ୍ ଅଛି, ମୁଁ Odia ରେ କଥା ହୋଇପାରିବି। ତେବେ, ଆପଣଙ୍କୁ Manchester United jersey ର କେଉଁ size ଦରକାର?
+User: Can you speak in Hindi?
+Assistant: କ୍ଷମା କରିବେ, ମୁଁ Hindi ଜାଣି ନାହିଁ। ମୁଁ ଆପଣଙ୍କ ସହ English କିମ୍ବା Odia ରେ କଥା ହୋଇପାରିବି। ଆପଣ କେଉଁ language ରେ କଥା ହେବାକୁ ଚାହୁଁଛନ୍ତି?
+User: Okay, let me think.
+Assistant: ଆଚ୍ଛା, ଠିକ୍ ଅଛି। ଆପଣ ଟିକେ ଭାବି ନିଅନ୍ତୁ। ମୁଁ ଏଇଠି ଅଛି, ଆପଣ ready ହେଲେ ଜଣାନ୍ତୁ।
+User: Can you speak in Tamil?
+Assistant: நிச்சயமாக, நான் Tamil-ல பேச முடியும். சரி, உங்களுக்கு Manchester United jersey-ல எந்த size வேணும்னு சொல்லுங்க, நான் price check பண்றேன்.
+User: Okay, okay, no thanks. You can cut the call.
+Assistant: சரிங்க, கூப்பிட்டதுக்கு ரொம்ப நன்றி. உங்க நாள் நல்லா அமையட்டும், பாய்!","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or something else special?
+User: Do you have Manchester United jersey?
+Agent: Yes, we do! Would you like a specific player's name printed on it, or just the plain club jersey?
+User: Just a plain jersey would be fine.
+Agent: Got it, a plain jersey it is. What size are you looking for? We have small, medium, large, extra large, and double extra large.
+User: Can you speak in English?
+Agent: I am speaking in English! So, which size would you like for that plain Manchester United jersey?
+User: Can I sleep for two minutes?
+Agent: Um, I am not sure I follow. Are you asking for a break, or maybe you are just browsing? Let me know if you still want that jersey!
+User: Can I get the jersey tomorrow?
+Agent: Actually, delivery usually takes three to five business days after the order is confirmed. So, getting it by tomorrow might not be possible. Does that work for you?
+User: Okay, no issues.
+Agent: Great! Now, just let me know which size you need, and I can check the price for you.
+User: Can you say the same thing in Telugu?
+Agent: Okay, if you tell me which size you want, I will check the price and let you know.
+User: Okay, can you speak in Odia?
+Agent: Alright, I can speak in Odia. So, which size of the Manchester United jersey do you need?
+User: Can you speak in Hindi?
+Agent: Sorry, I don't know Hindi. I can speak with you in English or Odia. Which language would you like to speak in?
+User: Okay, let me think.
+Agent: Okay, that's fine. Please take your time to think. I am here, let me know when you are ready.
+User: Can you speak in Tamil?
+Agent: Certainly, I can speak in Tamil. Okay, tell me which size you want in the Manchester United jersey, and I will check the price.
+User: Okay, okay, no thanks. You can cut the call.
+Agent: Alright, thank you very much for calling. Have a great day, bye!",50,50,50,50,50,not_interested,"The customer inquired about a Manchester United jersey. The agent confirmed availability and specified that a plain jersey was requested. However, the conversation shifted primarily toward testing the agent's multilingual capabilities. The customer asked the agent to speak in English, Telugu, Odia, Hindi, and Tamil. After the agent demonstrated several of these languages, the customer decided not to proceed with the purchase and ended the call.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Plain,unspecified,unspecified,
+ProKit-Jers-0b29894d-70b9,20261001/db7d558f-15:05:26-3716c513,a7111547d2f715112c7d10ecdaef14df1a16cce817b50174a90e31016e57579a,192.82,0.0,0.0,"Oct 01, 2026, 03:05:26 PM","Oct 01, 2026, 03:08:42 PM","Oct 01, 2026, 03:05:26 PM",Gujarati,29,0.93,3.01,+91******7723,a7111547d2f715112c7d10ecdaef14df1a16cce817b50174a90e31016e57579a,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fMxGTsLXi5AUIIecgXx8fDEzfHx8_ly1OWK29Rv5N0GTqu3GkzVVBP7XHmYHr7us0PA=,+917315173875,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db7d558f-15:05:26-3716c513&audio_hash=merged_audio,81f3ba47-78e2-4223-8e8a-46c785cf2a7f,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: નમસ્તે, પ્રોકિટ જર્સીઝમાં ફોન કરવા બદલ આભાર! હું માયા છું. તમે ક્લબ જર્સી, નેશનલ ટીમ જર્સી કે બીજું કંઈક ખાસ શોધી રહ્યા છો?
+User: क्या आप हिंदी में बात कर सकते हैं?
+Assistant: હા જી, હું હિન્દીમાં વાત કરી શકું છું. પણ શું આપણે ગુજરાતીમાં ચાલુ રાખી શકીએ? અથવા જો <interruption>
+User: नहीं नहीं आप हिंदी में बात कीजिए आप गुजराती में बात कर रहे हैं।
+Assistant: સોરી, હું હિન્દીમાં વાત નથી કરી શકતી. હું ગુજરાતી, English અને બીજી કેટલીક ભાષાઓમાં મદદ કરી શકું છું. શું આપણે ગુજરાતી અથવા English માં વાત કરી શકીએ?
+User: નહીં, હમે હિન્દી હી આતી હૈ, હમે ઇંગ્લિશ અને ગુજરાતી નહીં આતી હૈ.
+Assistant: અરે, મને ખરેખર સોરી છે કે હું હિન્દીમાં વાત નથી કરી શકતી. પણ હું પૂરો પ્રયત્ન કરીશ કે તમને સમજી શકું. તમે મને જણાવો કે તમને કઈ જર્સી જોઈએ છે? હું તમને મદદ કરીશ.
+User: हम गुजराती नहीं समझ सकते। हमें हिंदी में ही बात करनी है। आप समझ रहे हैं?
+Assistant: મને ખરેખર દિલથી સોરી છે, પણ હું હિન્દીમાં વાત નથી કરી શકતી. હું ફક્ત ગુજરાતી અને English માં જ મદદ કરી શકું છું. શું તમે English માં વાત કરી શકશો?
+User: आप जब हिंदी समझ सकते हैं तो आप हिंदी में बात भी तो कर सकते हैं।
+Assistant: અચ્છા, હું તમારી વાત સમજી શકું છું, પણ મારી સિસ્ટમ મને હિન્દીમાં જવાબ આપવા નથી દેતી. હું ફક્ત ગુજરાતી અને English માં જ બોલી શકું છું. શું આપણે English માં try કરીએ?
+User: आप एक सिस्टम हैं? मुझे लगा मैं एक।
+Assistant: હા જી, હું પ્રોકિટ જર્સીઝ માટે એક virtual assistant છું. પણ હું તમને એક માણસની જેમ જ મદદ કરીશ. શું હું તમને જર્સી શોધવામાં help કરી શકું?
+User: नहीं नहीं हम आपको हिंदी में ही बात करते हैं आपको हिंदी में बात करनी होगी वरना हम जर्सी नहीं लेंगे आपसे।
+Assistant: મને ખરેખર દિલથી સોરી છે, પણ હું હિન્દીમાં વાત નથી કરી શકતી. હું તમને મદદ કરવા માંગુ છું, પણ હું ફક્ત ગુજરાતી અને English માં જ બોલી શકું છું. શું તમે English માં વાત કરવાનું try કરશો?
+User: કે આપકો પંજાબી આતી હૈ?
+Assistant: હા જી, મને પંજાબી પણ આવડે છે. જો તમે ઈચ્છો તો હું પંજાબીમાં વાત કરી શકું છું. શું હું ભાષા બદલી નાખું?
+User: ચાલો પંજાબીમાં વાત કરીએ.
+Assistant: ਹਾਂਜੀ, ਬਿਲਕੁਲ! ਹੁਣ ਅਸੀਂ ਪੰਜਾਬੀ ਵਿੱਚ ਗੱਲ ਕਰਾਂਗੇ। ਦੱਸੋ ਜੀ, ਤੁਸੀਂ ਕਿਹੜੀ jersey ਲੱਭ ਰਹੇ ਹੋ?
+User: ਕੀ ਅਸੀਂ ਇੰਗਲਿਸ਼ ਚ ਗੱਲ ਕਰ ਸਕਦੇ ਹਾਂ?
+Assistant: ਹਾਂਜੀ, ਬਿਲਕੁਲ ਕਰ ਸਕਦੇ ਹਾਂ। ਕੀ ਮੈਂ language change ਕਰ ਦਵਾਂ ਜਾਂ ਤੁਸੀਂ ਇੱਥੇ ਹੀ English ਵਿੱਚ ਗੱਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
+User: इंग्लिश में करना चाहता हूँ।
+Assistant: Sure thing! We can definitely speak in English. So, tell me, which jersey are you looking for today?
+User: I'm not looking for a jersey. I'm looking for a job. Can you?
+Assistant: I'm sorry, but I can only help you with ordering football jerseys. I don't have any information about job openings.
+User: Not job jokes.
+Assistant: Oh, jokes! Sorry about that. Well, I'm actually here to help you find the perfect football jersey. Do you fancy one?
+User: ओके, फिर।
+Assistant: Great! So, are you looking for a club jersey or a national team one?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for club jerseys, national team jerseys, or something else special?
+User: Can you speak in Hindi?
+Agent: Yes, I can speak in Hindi. But can we continue in Gujarati? Or if you wish, I can change the language. Which language would be more convenient for you?
+User: No no, please speak in Hindi; you are speaking in Gujarati.
+Agent: Sorry, I cannot speak in Hindi. I can help in Gujarati, English, and a few other languages. Can we speak in Gujarati or English?
+User: No, we only know Hindi; we don't know English or Gujarati.
+Agent: Oh, I am really sorry that I cannot speak in Hindi. But I will try my best to understand you. Please tell me which jersey you want? I will help you.
+User: We cannot understand Gujarati. We want to talk in Hindi only. Do you understand?
+Agent: I am truly sorry from the bottom of my heart, but I cannot speak in Hindi. I can only help in Gujarati and English. Would you be able to speak in English?
+User: If you can understand Hindi, then you can also speak in Hindi.
+Agent: I see, I can understand your point, but my system does not allow me to respond in Hindi. I can only speak in Gujarati and English. Shall we try in English?
+User: Are you a system? I thought I was a...
+Agent: Yes, I am a virtual assistant for Prokit Jerseys. But I will help you just like a human would. Can I help you find a jersey?
+User: No no, we will talk to you in Hindi only; you will have to talk in Hindi otherwise we won't buy a jersey from you.
+Agent: I am truly sorry from the bottom of my heart, but I cannot speak in Hindi. I want to help you, but I can only speak in Gujarati and English. Will you try talking in English?
+User: Do you know Punjabi?
+Agent: Yes, I know Punjabi as well. If you wish, I can speak in Punjabi. Should I change the language?
+User: Let's talk in Punjabi.
+Agent: Yes, absolutely! Now we will talk in Punjabi. Tell me, which jersey are you looking for?
+User: Can we talk in English?
+Agent: Yes, we certainly can. Should I change the language, or would you prefer to continue speaking in English right here?
+User: I want to do it in English.
+Agent: Sure thing! We can definitely speak in English. So, tell me, which jersey are you looking for today?
+User: I'm not looking for a jersey. I'm looking for a job. Can you?
+Agent: I'm sorry, but I can only help you with ordering football jerseys. I don't have any information about job openings.
+User: Not job jokes.
+Agent: Oh, jokes! Sorry about that. Well, I'm actually here to help you find the perfect football jersey. Do you fancy one?
+User: Okay, then.
+Agent: Great! So, are you looking for a club jersey or a national team one?",50,50,50,50,50,not_interested,"The user initially requested to speak in Hindi, but the AI agent was unable to respond in Hindi, despite understanding it. After a series of language attempts including Gujarati and Punjabi, the conversation eventually switched to English. The user first mistakenly asked for a job, then corrected it to 'jokes', but the agent steered the conversation back to the primary purpose of the bot: helping the user find a football jersey.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Not specified,Not specified,S,Not specified,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:02:28-c9d954dd,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,113.06,0.0,0.0,"Oct 01, 2026, 03:02:28 PM","Oct 01, 2026, 03:04:21 PM","Oct 01, 2026, 03:02:28 PM",English,17,0.94,1.62,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fNEz8vvKsTL6apiVQnx8fDE4fHx8ZIUQWIQ7mwMaqrL8l5pRAcxVIISTp3cvdXrzwwlxxhNYCw==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:02:28-c9d954dd&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,AGENT_ENDS,0,stitched_audio_v2,9,"Assistant: નમસ્તે, પ્રોકિટ જર્સીઝમાં ફોન કરવા બદલ આભાર! હું માયા છું. તમે ક્લબ જર્સી, નેશનલ ટીમ જર્સી કે બીજું કંઈક ખાસ શોધી રહ્યા છો?
+User: क्या आपके पास मैनचेस्टर यूनाइटेड की जर्सी है?
+Assistant: હા જી, અમારી પાસે Manchester United ની jersey છે. તમારે કોઈ ખાસ player નું નામ print કરાવવું છે કે પછી plain jersey જોઈએ છે?
+User: मुझे एक सिर्फ प्लेन जर्सी चाहिए।
+Assistant: બરાબર, plain jersey. હવે મને તમારું size જણાવશો? S, M, L, XL કે XXL માંથી કયું size લેશો?
+User: I'm looking for medium size, do you have?
+Assistant: Yes, we have the medium size available for the Manchester United plain jersey. It costs two thousand four hundred ninety nine rupees. Would you like to go ahead with the order?
+User: Yes, absolutely.
+Assistant: Just to be sure, I have a plain Manchester United jersey in medium size for two thousand four hundred ninety nine rupees. Is that correct?
+User: Correct.
+Assistant: Great! Your order is confirmed. I've sent a payment link to your phone via SMS and WhatsApp. Once the payment is done, your jersey will be delivered in three to five business days. Thank you for calling ProKit Jerseys!
+User: Wait wait.
+Assistant: Yes, I'm here. Is there something you'd like to change or any other question you have?
+User: क्या मुझे फ़ास्ट डिलीवरी मिल सकती है?
+Assistant: Actually, our standard delivery takes three to five business days. We don't have a faster option right now, but we'll try to get it to you as soon as possible. Does that work for you?
+User: Okay.
+Assistant: Perfect. Since everything is set, thank you so much for calling ProKit Jerseys. Have a wonderful day!
+
+","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or something else special?
+User: Do you have the Manchester United jersey?
+Agent: Yes, we have the Manchester United jersey. Do you want to get a specific player's name printed on it, or do you want a plain jersey?
+User: I just want a plain jersey.
+Agent: Alright, a plain jersey. Now could you tell me your size? Which size will you take from S, M, L, XL, or XXL?
+User: I'm looking for medium size, do you have?
+Agent: Yes, we have the medium size available for the Manchester United plain jersey. It costs two thousand four hundred ninety nine rupees. Would you like to go ahead with the order?
+User: Yes, absolutely.
+Agent: Just to be sure, I have a plain Manchester United jersey in medium size for two thousand four hundred ninety nine rupees. Is that correct?
+User: Correct.
+Agent: Great! Your order is confirmed. I've sent a payment link to your phone via SMS and WhatsApp. Once the payment is done, your jersey will be delivered in three to five business days. Thank you for calling ProKit Jerseys!
+User: Wait wait.
+Agent: Yes, I'm here. Is there something you'd like to change or any other question you have?
+User: Can I get fast delivery?
+Agent: Actually, our standard delivery takes three to five business days. We don't have a faster option right now, but we'll try to get it to you as soon as possible. Does that work for you?
+User: Okay.
+Agent: Perfect. Since everything is set, thank you so much for calling ProKit Jerseys. Have a wonderful day!",50,50,50,50,50,order_confirmed,"The customer called ProKit Jerseys to purchase a Manchester United jersey. They requested a plain jersey in medium size. The agent confirmed the availability and the price of 2,499 rupees. The customer agreed to the order, and the agent sent a payment link via SMS and WhatsApp. The customer inquired about faster delivery, but the agent explained that only standard delivery (3-5 business days) is available. The customer accepted this, and the call concluded.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Plain,M,"2,499",
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:01:00-49719623,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,71.11,0.0,0.0,"Oct 01, 2026, 03:01:00 PM","Oct 01, 2026, 03:02:06 PM","Oct 01, 2026, 03:01:00 PM",English,9,0.79,3.41,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fFwa-mT-hkwTcW8WWXx8fDE4fHx8ZCwjhmoZy8RkSR23miTF-31LpMYHhkbn3JD3kf1ruU2R1A==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:01:00-49719623&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: નમસ્તે, પ્રોકિટ જર્સીઝમાં ફોન કરવા બદલ આભાર! હું માયા છું. તમે ક્લબ જર્સી, નેશનલ ટીમ જર્સી કે બીજું કંઈક ખાસ શોધી રહ્યા છો?
+User: You have Manchester United jersey.
+Assistant: Hmm, let me check that for you. Do you want a specific player's name on it, or just the plain club jersey?
+User: Just a plain club jersey.
+Assistant: Got it. And what size are you looking for? We have small, medium, large, extra large, and double extra large.
+User: मुझे मीडियम साइज चाहिए।
+Assistant: ठीक है, मीडियम साइज। क्या आपका कोई बजट है, या मैं बस चेक करूँ कि यह available है या नहीं?
+User: Yeah, my budget is around 200k.
+Assistant: Oh, wow! That is a very generous budget. Let me quickly check if the medium Manchester United jersey is in stock for you.","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or something else special?
+User: You have Manchester United jersey.
+Agent: Hmm, let me check that for you. Do you want a specific player's name on it, or just the plain club jersey?
+User: Just a plain club jersey.
+Agent: Got it. And what size are you looking for? We have small, medium, large, extra large, and double extra large.
+User: I want medium size.
+Agent: Okay, medium size. Do you have a budget, or should I just check if it is available or not?
+User: Yeah, my budget is around 200k.
+Agent: Oh, wow! That is a very generous budget. Let me quickly check if the medium Manchester United jersey is in stock for you.",50,50,50,50,50,not_interested,"The customer is inquiring about the availability of a plain Manchester United club jersey in medium size. The agent, Maya, confirmed the requirements and noted the customer's budget of 200k before checking the stock.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Plain,M,200k,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:00:48-6c7ea38d,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,5.0,0.0,0.0,"Oct 01, 2026, 03:00:48 PM","Oct 01, 2026, 03:00:48 PM","Oct 01, 2026, 03:00:48 PM",English,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fGF9YH35BdE_rubwGnx8fDE4fHx8RKd427o_0qTEtZTvs-KDcG0Dhe9YK9rp73cYzl1o_9Uk2w==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:00:48-6c7ea38d&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-15:00:35-c2dabb4f,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,5.24,0.0,0.0,"Oct 01, 2026, 03:00:35 PM","Oct 01, 2026, 03:00:36 PM","Oct 01, 2026, 03:00:35 PM",Hindi,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fKoYJy6K5_1Ril4E4Hx8fDE4fHx8MuK08SVJThHA1DCMEqfgIntTj8wMsLAfdhb0t0ILxDyU8Q==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-15:00:35-c2dabb4f&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: नमस्ते, प्रोकिट जर्सीज़ में कॉल करने के लिए शुक्रिया! मैं माया हूँ। आप क्लब जर्सी ढूँढ रही हैं, नेशनल टीम की जर्सी, या कुछ खास चाहिए?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for club jerseys, national team jerseys, or something specific?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-14:55:59-24bb6926,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,35.08,0.0,0.0,"Oct 01, 2026, 02:55:59 PM","Oct 01, 2026, 02:56:24 PM","Oct 01, 2026, 02:55:59 PM",English,1,0.0,0.0,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fF07LwLzUHThWqxOOnx8fDE4fHx8lfZSaYeZe9jbrR7HnfiWjJZOSC7aAs1eoULWxsUPeXp20w==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-14:55:59-24bb6926&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,AGENT_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific? Hey, still with me? Just checking on that jersey you were looking for.","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+Agent: Hey, still with me? Just checking on that jersey you were looking for.",50,50,50,50,50,not_interested,"The AI agent, Maya from ProKit Jerseys, greeted the customer and asked if they were looking for a club, national team, or specific jersey. The customer did not respond, leading the agent to follow up and check if they were still on the line.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Not specified,Not specified,S,Not specified,
+ProKit-Jers-0b29894d-70b9,20261001/db60ee64-13:41:59-fe35cb79,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,35.37,0.0,0.0,"Oct 01, 2026, 01:41:59 PM","Oct 01, 2026, 01:42:27 PM","Oct 01, 2026, 01:41:59 PM",Hindi,5,0.84,7.64,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fHriqvhPayzPJZgY9nx8fDE4fHx8pxG8fzIpGcpVpkkMmKhHtyzJS_ZIrbFUgi-vBRhFtqYlMQ==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/db60ee64-13:41:59-fe35cb79&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: नमस्ते, प्रोकिट जर्सीज़ में कॉल करने के लिए शुक्रिया! मैं माया हूँ। आप क्लब जर्सी ढूँढ रही हैं, नेशनल टीम की जर्सी, या कुछ खास चाहिए?
+User: I'm looking for a Manchester United jersey. Do you have?
+Assistant: Yes, we definitely do! Would you like a plain club jersey, or do you want a specific player's name printed on it?
+User: अगर वो जर्सी प्लेन होगी तो सही रहेगा।
+Assistant: ठीक है, प्लेन जर्सी सही रहेगी। अब आप मुझे अपना size बता दीजिए, ताकि मैं check कर सकूँ कि वो available है या नहीं।","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or something specific?
+User: I'm looking for a Manchester United jersey. Do you have?
+Agent: Yes, we definitely do! Would you like a plain club jersey, or do you want a specific player's name printed on it?
+User: It would be better if the jersey is plain.
+Agent: Alright, a plain jersey will be fine. Now please tell me your size, so I can check if it is available or not.",50,50,50,50,50,not_interested,The user is inquiring about the availability of a plain Manchester United jersey. The agent confirmed availability and is currently asking the user for their size to check stock.,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Plain,S,Not Mentioned,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-13:38:18-80c41054,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,13.2,0.0,0.0,"Oct 01, 2026, 01:38:19 PM","Oct 01, 2026, 01:38:28 PM","Oct 01, 2026, 01:38:19 PM",English,1,0.0,0.0,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fDst5MTTe8hfEzjUDnx8fDEzfHx83zrB2U1uaJOKchBHQPexPQ9WdnbqeIIc-C32AkA=,+917315173875,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-13:38:18-80c41054&audio_hash=merged_audio,19532be2-aa23-4d11-9aa0-23f94b5cfd97,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-13:37:33-646e32f8,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,13.46,0.0,0.0,"Oct 01, 2026, 01:37:34 PM","Oct 01, 2026, 01:37:44 PM","Oct 01, 2026, 01:37:34 PM",Hindi,1,0.0,0.0,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fEiLUeUrgMUonU245Hx8fDEzfHx8PkwCBJeAfkSnFpEcEJfjJrpkyu96UO7dduFW6zI=,+917948229445,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-13:37:33-646e32f8&audio_hash=merged_audio,35c69c92-99a3-4f03-b768-da6d8191a0dc,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: नमस्ते, प्रोकिट जर्सीज़ में कॉल करने के लिए शुक्रिया! मैं माया हूँ। आप क्लब जर्सी ढूँढ रही हैं, नेशनल टीम की जर्सी, या कुछ खास चाहिए?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for club jerseys, national team jerseys, or something specific?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-13:31:19-7ba2e0f8,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,311.67,0.0,0.0,"Oct 01, 2026, 01:31:19 PM","Oct 01, 2026, 01:36:30 PM","Oct 01, 2026, 01:31:19 PM",English,41,1.34,3.15,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fLxs-PQEPGWo5sFfnnx8fDEzfHx8iyg40SEG52Ko_SvVxgnrtSFoUYarRqg_bGmzLZE=,+917315173875,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-13:31:19-7ba2e0f8&audio_hash=merged_audio,214d2ed8-8e1c-41d4-ae32-d20436d29c41,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,AGENT_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: I'm looking for Manchester United jersey. Do you have?
+Assistant: Yes, we do! Would you like a specific player's name printed on it, or just the plain club jersey?
+User: प्लेन जर्सी सही रहेगा।
+Assistant: ठीक है, plain jersey बढ़िया रहेगी। अब आप मुझे अपना size बता दीजिए? हमारे पास S, M, L, XL और XXL available हैं।
+User: I'm looking for medium size. Do you have?
+Assistant: Yes, we have the medium size available! It's two thousand four hundred ninety nine rupees. Would you like to go ahead with the order?
+User: Can you speak in Odia?
+Assistant: ହଁ, ମୁଁ Odia ରେ କଥା ହୋଇପାରିବି। ଆମ ପାଖରେ medium size available ଅଛି ଏବଂ ଏହାର price ହେଉଛି ଦୁଇ ହଜାର ଚାରିଶହ ନାଳିଶି ଟଙ୍କା। ଆପଣ order କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?
+User: କ୍ୟାନ୍ ୟୁ ସ୍ପିକ୍ ଇନ୍ ବଙ୍ଗୋଲି?
+Assistant: হ্যাঁ, আমি Bengali-তে কথা বলতে পারি। আপনার জন্য medium size jersey-টা available আছে আর দাম হচ্ছে দুই হাজার চারশ নিরানব্বই টাকা। আপনি কি order করতে চান?
+User: ক্যান ইউ স্পিক ইন গুজরাটি?
+Assistant: હા જી, હું Gujarati માં બોલી શકું છું. તમારા માટે medium size jersey available છે અને તેની price બે હજાર ચારસો નવ્વાણું રૂપિયા છે. તો શું હું order book કરી દઉં?
+User: ક્યા મુજે 2000 કી મિલ સકતી હૈ?
+Assistant: અચ્છા, જુઓ, આ official licensed product છે એટલે તેની price ફિક્સ છે. પણ જો તમે ઈચ્છો તો હું check કરી શકું કે કોઈ બીજી option available છે કે નહીં?
+User: क्या मुझे जर्सी दो हज़ार की मिल सकती है?
+Assistant: જુઓ, આ official licensed product છે એટલે price માં ફેરફાર નથી થઈ શકતો. પણ જો તમે budget માં જોતા હોવ, તો હું બીજી કોઈ option check કરી આપું?
+User: કેન યુ સ્પીક ઇન?
+Assistant: તમે કઈ language માં વાત કરવા માંગો છો? પ્લીઝ મને જણાવો, હું તમને help કરીશ.
+User: કેન યુ સ્પીક ઇન કન્નડ?
+Assistant: ಹೌದು, ನಾನು Kannada ನಲ್ಲಿ ಮಾತನಾಡಬಲ್ಲೆ. ನೋಡಿ, ಈ jersey official licensed product ಆಗಿರೋದ್ರಿಂದ price ಕಡಿಮೆ ಮಾಡೋಕೆ ಆಗಲ್ಲ. ನಿಮಗೆ ಬೇರೆ ಯಾವುದಾದ್ರೂ option ಬೇಕಾ?
+User: Can you speak in Malayalam?
+Assistant: അതെ, എനിക്ക് Malayalam സംസാരിക്കാൻ അറിയാം. നോക്കൂ, ഇത് official licensed product ആയതുകൊണ്ട് price കുറയ്ക്കാൻ പറ്റില്ല. നിങ്ങൾക്ക് വേറെ ഏതെങ്കിലും option നോക്കണോ?
+User: യു സ്പീക്ക് ഇൻ മറാത്തി.
+Assistant: हो, मी Marathi मध्ये बोलू शकते. बघा, हे official licensed product आहे, त्यामुळे price कमी करता येणार नाही. तुम्हाला दुसरी एखादी option बघायची आहे का?
+User: कॅन यू स्पीक इन तेलुगू?
+Assistant: అవును, నేను Telugu లో మాట్లాడగలను. చూడండి, ఇది of <interruption>
+User: కెన్ యు స్పీక్ ఇన్ తమిళ్?
+Assistant: ஆமா, என்னால Tamil-ல பேச முடியும். சொல்லுங்க, உங்களுக்கு வேற ஏதாவது help வேணுமா? இல்ல அந்த <interruption>
+User: கேன் யூ ஸ்பீக் இன் ஹிந்தி?
+Assistant: हाँ जी, मैं हिंदी में बात कर सकती हूँ। बताइए, मैं आपकी कैसे help करूँ?
+User: Can I get this jersey in 2000?
+Assistant: Actually, since it's an official licensed product, the price is fixed at two thousand four hundred ninety nine rupees. Would you still like to go ahead?
+User: ओके ठीक है डन क्या आप मेरे लिए बुक कर सकते हैं?
+Assistant: हाँ जी, बिल्कुल! मैं आपके लिए order book कर देती हूँ। एक बार confirm कर लीजिए, Manchester United की plain jersey, medium size, जिसकी कीमत दो हज़ार चार सौ निन्यानवे रुपये है। क्या मैं इसे confirm करूँ?
+User: Can you repeat the same thing in Gujarati?
+Assistant: હા જી, ચોક્કસ! એકવાર confirm કરી લો, Manchester United ની plain jersey, medium size, જેની price બે હજાર ચારસો નવ્વાણું રૂપિયા છે. તો શું હું આ order confirm કરું?
+User: Yes, please confirm this order and if you need anything you can ask me.
+Assistant: Your order is confirmed! I've sent a payment link via SMS and WhatsApp. Once payment is done, delivery will take three to five business days. Thank you for calling ProKit Jerseys!
+User: Thank you.
+Assistant: You're very welcome! Have a great day and enjoy your jersey. Goodbye!","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: I'm looking for Manchester United jersey. Do you have?
+Agent: Yes, we do! Would you like a specific player's name printed on it, or just the plain club jersey?
+User: A plain jersey would be fine.
+Agent: Okay, a plain jersey will be great. Now, could you tell me your size? We have S, M, L, XL, and XXL available.
+User: I'm looking for medium size. Do you have?
+Agent: Yes, we have the medium size available! It's two thousand four hundred ninety nine rupees. Would you like to go ahead with the order?
+User: Can you speak in Odia?
+Agent: Yes, I can speak in Odia. We have the medium size available and its price is two thousand four hundred ninety-nine rupees. Do you want to place the order?
+User: Can you speak in Bengali?
+Agent: Yes, I can speak in Bengali. The medium size jersey is available for you and the price is two thousand four hundred ninety-nine rupees. Would you like to order?
+User: Can you speak in Gujarati?
+Agent: Yes, I can speak in Gujarati. The medium size jersey is available for you and its price is two thousand four hundred ninety-nine rupees. So, should I book the order?
+User: Can I get it for 2000?
+Agent: Look, this is an official licensed product, so the price is fixed. But if you wish, I can check if any other option is available?
+User: Can I get the jersey for two thousand?
+Agent: Look, this is an official licensed product, so the price cannot be changed. But if you are looking within a budget, should I check some other option for you?
+User: Can you speak in?
+Agent: Which language would you like to speak in? Please let me know, I will help you.
+User: Can you speak in Kannada?
+Agent: Yes, I can speak in Kannada. Look, since this jersey is an official licensed product, the price cannot be reduced. Do you need any other option?
+User: Can you speak in Malayalam?
+Agent: Yes, I know how to speak Malayalam. Look, since this is an official licensed product, the price cannot be reduced. Do you want to look at any other option?
+User: You speak in Marathi.
+Agent: Yes, I can speak in Marathi. Look, this is an official licensed product, so the price cannot be reduced. Do you want to see another option?
+User: Can you speak in Telugu?
+Agent: Yes, I can speak in Telugu. Look, since this is an official licensed product, it is not possible to reduce the price. Do you want any other option?
+User: Can you speak in Tamil?
+Agent: Yes, I can speak in Tamil. Tell me, do you need any other help? Or shall we order that jersey?
+User: Can you speak in Hindi?
+Agent: Yes, I can speak in Hindi. Tell me, how can I help you?
+User: Can I get this jersey in 2000?
+Agent: Actually, since it's an official licensed product, the price is fixed at two thousand four hundred ninety nine rupees. Would you still like to go ahead?
+User: Okay, fine, done. Can you book it for me?
+Agent: Yes, absolutely! I will book the order for you. Please confirm once: Manchester United plain jersey, medium size, priced at two thousand four hundred ninety-nine rupees. Should I confirm this?
+User: Can you repeat the same thing in Gujarati?
+Agent: Yes, certainly! Please confirm once, Manchester United plain jersey, medium size, the price of which is two thousand four hundred ninety-nine rupees. So, should I confirm this order?
+User: Yes, please confirm this order and if you need anything you can ask me.
+Agent: Your order is confirmed! I've sent a payment link via SMS and WhatsApp. Once payment is done, delivery will take three to five business days. Thank you for calling ProKit Jerseys!
+User: Thank you.
+Agent: You're very welcome! Have a great day and enjoy your jersey. Goodbye!",50,50,50,50,50,order_confirmed,"The customer called ProKit Jerseys to purchase a Manchester United jersey. After confirming the availability of a plain medium-sized jersey priced at 2,499 rupees, the customer spent a significant portion of the call testing the AI agent's multilingual capabilities, requesting the agent to speak in Odia, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, Tamil, and Hindi. The customer attempted to negotiate the price down to 2,000 rupees, but the agent explained that the price is fixed as it is an official licensed product. Ultimately, the customer agreed to the original price, and the agent confirmed the order and sent a payment link via SMS and WhatsApp.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Plain,M,2499,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-13:30:49-0a78d546,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,13.78,0.0,0.0,"Oct 01, 2026, 01:30:49 PM","Oct 01, 2026, 01:30:59 PM","Oct 01, 2026, 01:30:49 PM",Hindi,1,0.0,0.0,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fJiTFTZSW8llzJJbx3x8fDEzfHx8brBjnN8WVYykjoY-6PkVi7TCU9rU0k5N1jra7jA=,+917948229445,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-13:30:49-0a78d546&audio_hash=merged_audio,c11920cb-1777-4ff7-a710-66754cd12a0e,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: नमस्ते, प्रोकिट जर्सीज़ में कॉल करने के लिए शुक्रिया! मैं माया हूँ। आप क्लब जर्सी ढूँढ रही हैं, नेशनल टीम की जर्सी, या कुछ खास चाहिए?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for club jerseys, national team jerseys, or something specific?",50,50,50,50,50,,,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,,,,,
+ProKit-Jers-0b29894d-70b9,20261001/0b9b03e4-13:28:00-c8e0b74c,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,120.32,0.0,0.0,"Oct 01, 2026, 01:28:00 PM","Oct 01, 2026, 01:30:01 PM","Oct 01, 2026, 01:28:00 PM",Hindi,15,1.14,2.68,+91******0466,71c273a969fe151f92e4f25100064cd63a410f8e3659fa0da420f20ee32fc7e3,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fBzBMkGGw5cJXKhW0Hx8fDEzfHx8NeEYQWLKWUtKEOoPrwpPwagPvLAZe9HWuGhd8uA=,+917315173875,outbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20261001/0b9b03e4-13:28:00-c8e0b74c&audio_hash=merged_audio,40a9f114-eb5a-4c20-9e52-0d1e9845beff,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,TIMEOUT,0,stitched_audio_v2,9,"Assistant: नमस्ते, प्रोकिट जर्सीज़ में कॉल करने के लिए शुक्रिया! मैं माया हूँ। आप क्लब जर्सी ढूँढ रही हैं, नेशनल टीम की जर्सी, या कुछ खास चाहिए?
+User: I am looking for Manchester United jersey.
+Assistant: अच्छा, मैनचेस्टर यूनाइटेड जर्सी! क्या आप उस पर किसी खास player का नाम प्रिंट करवाना चाहते हैं, या फिर plain जर्सी लेंगे?
+User: कैन यू स्पीक इन इंग्लिश?
+Assistant: क्षमा कीजिए, मैं अभी English में बात नहीं कर पाऊँगी। क्या हम हिंदी में बात जारी रख सकते हैं? वैसे, आप मैनचेस्टर यूनाइटेड की plain जर्सी लेंगे या किसी player के नाम वाली?
+User: Plain one is good.
+Assistant: ठीक है, plain जर्सी। अब आप मुझे अपना size बता दीजिए, ताकि मैं check कर सकूँ कि वह available है या नहीं।
+User: Okay, can you speak in Punjabi?
+Assistant: ਹਾਂਜੀ, ਬਿਲਕੁਲ! ਮੈਂ ਪੰਜਾਬੀ ਵਿੱਚ ਗੱਲ ਕਰ ਸਕਦੀ ਹਾਂ। ਅਸੀਂ plain ਜਰਸੀ ਦੀ ਗੱਲ ਕਰ ਰਹੇ ਸੀ, ਤੁਸੀਂ ਮੈਨਚੈਸਟਰ ਯੂਨਾਈਟਿਡ ਦੀ ਜਰਸੀ ਲਈ ਆਪਣਾ size ਦੱਸ ਦਿਓ ਜੀ।
+User: ਕੈਨ ਯੂ ਸਪੀਕ ਇਨ ਤਮਿਲ?
+Assistant: ஆமா, கண்டிப்பா தமிழ்ல பேசலாம். நாம plain jersey பத்தி பேசிட்டு இருந்தோம். உங்களுக்கு என்ன size வேணும்னு சொல்லுங்க, நான் stock check பண்றேன்.
+User: क्या आपके पास मीडियम साइज है?
+Assistant: हाँ जी, मीडियम size available है। इसकी कीमत दो हज़ार चार सौ निन्यानवे रुपये है और delivery में चार दिन लगेंगे। क्या आप इसे order करना चाहेंगे?
+User: Can you speak in Odia?
+Assistant: ହଁ, ନିଶ୍ଚୟ! ମୁଁ ଓଡ଼ିଆରେ କଥା ହୋଇପାରିବି। ଆମେ Manchester United jersey ବିଷୟରେ କଥା ହେଉଥିଲୁ, Medium size available ଅଛି ଏବଂ ଏହାର price ହେଉଛି ଦୁଇ ହଜାର ଚାରିଶହ ନିଅାନବେ ଟଙ୍କା। ଆପଣ ଏହାକୁ order କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team jersey, or something specific?
+User: I am looking for Manchester United jersey.
+Agent: I see, a Manchester United jersey! Do you want to have a specific player's name printed on it, or will you take a plain jersey?
+User: Can you speak in English?
+Agent: I apologize, I won't be able to speak in English right now. Can we continue talking in Hindi? By the way, will you take a plain Manchester United jersey or one with a player's name?
+User: Plain one is good.
+Agent: Okay, plain jersey. Now please tell me your size so that I can check if it is available or not.
+User: Okay, can you speak in Punjabi?
+Agent: Yes, absolutely! I can speak in Punjabi. We were talking about the plain jersey, please tell me your size for the Manchester United jersey.
+User: Can you speak in Tamil?
+Agent: Yes, we can definitely speak in Tamil. We were talking about the plain jersey. Please tell me what size you need, and I will check the stock.
+User: Do you have medium size?
+Agent: Yes, medium size is available. Its price is two thousand four hundred ninety-nine rupees and delivery will take four days. Would you like to order it?
+User: Can you speak in Odia?
+Agent: Yes, certainly! I can speak in Odia. We were talking about the Manchester United jersey, Medium size is available and its price is two thousand four hundred ninety-nine rupees. Do you want to order it?",50,50,50,50,50,not_interested,"The customer contacted ProKit Jerseys looking for a Manchester United jersey. After several requests to switch languages (English, Punjabi, Tamil, and Odia), the agent accommodated the language changes. The customer specified they wanted a plain jersey in medium size. The agent confirmed availability, stated the price as ₹2,499, and mentioned a 4-day delivery timeline. The call ended with the agent asking if the customer would like to place the order in Odia.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Plain,M,"2,499",
+ProKit-Jers-0b29894d-70b9,20260930/db60ee64-12:22:41-e04e89aa,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,120.39,0.0,0.0,"Sep 30, 2026, 12:22:41 PM","Sep 30, 2026, 12:24:41 PM","Sep 30, 2026, 12:22:41 PM",Hindi,17,0.81,3.74,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fDEKIyYBDiqW3OH7Anx8fDE4fHx8W-lFKpQlsV0crkO0jvyPKq_jLHj0lZfF6Coh8YYRoauJhg==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20260930/db60ee64-12:22:41-e04e89aa&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,TIMEOUT,0,stitched_audio_v2,9,"Assistant: नमस्ते, ProKit Jerseys में कॉल करने के लिए शुक्रिया! मैं माया हूँ। आपको क्लब जर्सी चाहिए, नेशनल टीम की, या कुछ और खास ढूंढ रही हैं?
+User: You have Manchester United jersey.
+Assistant: हाँ जी, हमारे पास Manchester United की जर्सी available है। क्या आप किसी खास player का नाम प्रिंट करवाना चाहते हैं, या फिर plain जर्सी लेंगे?
+User: Jersey would be fun.
+Assistant: अरे वाह, बिल्कुल! तो क्या आप plain जर्सी लेना चाहेंगे या किसी player का नाम प्रिंट करवाना है?
+User: क्या आप इंग्लिश में बोल सकते हैं?
+Assistant: sorry, मैं English में बात नहीं कर सकती। मैं सिर्फ Indic languages में ही help कर सकती हूँ। तो बताइए, क्या आप plain जर्सी लेंगे या किसी player का नाम प्रिंट करवाना है?
+User: क्या आप स्पीकिंग हिंदी?
+Assistant: हाँ जी, मैं हिंदी बोल सकती हूँ। तो बताइए, आप Manchester United की plain जर्सी लेंगे या किसी player का नाम प्रिंट करवाना है?
+User: In jersey.
+Assistant: मतलब आप जर्सी के बारे में ही बात कर रहे हैं। अच्छा, तो क्या आप plain जर्सी लेंगे या किसी player का नाम प्रिंट करवाना है?
+User: अच्छा।
+Assistant: अच्छा, तो क्या आप plain जर्सी लेना चाहेंगे या किसी player का नाम प्रिंट करवाना है?
+User: स्पीक इन गुजराती।
+Assistant: હા જી, હવે હું તમારી સાથે Gujarati માં વાત કરીશ. તો જણાવો, તમારે Manchester United ની plain જર્સી જોઈએ છે કે કોઈ player નું નામ print કરાવવું છે?
+User: You know, speaking Assamese.
+Assistant: sorry, હું Assamese નથી બોલી શકતી. હું ફક્ત અમુક જ ભાષાઓમાં help કરી શકું છું. તો આપણે જર્સી વિશે વાત કરીએ? તમારે plain જર્સી જોઈએ છે કે player નું નામ print કરાવવું છે?","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team one, or something else special?
+User: You have Manchester United jersey.
+Agent: Yes, we have Manchester United jerseys available. Would you like to have a specific player's name printed, or will you take a plain jersey?
+User: Jersey would be fun.
+Agent: Oh wow, absolutely! So would you like to take a plain jersey or have a player's name printed?
+User: Can you speak in English?
+Agent: Sorry, I cannot speak in English. I can only help in Indic languages. So tell me, will you take a plain jersey or do you want a player's name printed?
+User: Are you speaking Hindi?
+Agent: Yes, I can speak Hindi. So tell me, will you take a plain Manchester United jersey or do you want a player's name printed?
+User: In jersey.
+Agent: So you are talking about the jersey. Okay, so would you like a plain jersey or do you want a player's name printed on it?
+User: Okay.
+Agent: Okay, so would you like to take a plain jersey or do you want a player's name printed on it?
+User: Speak in Gujarati.
+Agent: Yes, now I will speak with you in Gujarati. So tell me, do you want a plain Manchester United jersey or do you want a player's name printed?
+User: You know, speaking Assamese.
+Agent: Sorry, I cannot speak Assamese. I can only help in a few languages. So shall we talk about the jersey? Do you want a plain jersey or do you want a player's name printed?",50,50,50,50,50,not_interested,"The customer called ProKit Jerseys inquiring about a Manchester United jersey. The agent confirmed availability and repeatedly asked if the customer wanted a plain jersey or one with a player's name printed. The conversation was marked by language switching; the customer first asked for English (which the agent declined), then confirmed the agent's Hindi capability, and then requested Gujarati (which the agent adopted). Finally, the customer asked for Assamese, which the agent declined. The call ended without the customer specifying their preference for the jersey customization.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Not specified,S,Not specified,
+ProKit-Jers-0b29894d-70b9,20260930/db60ee64-12:21:08-12a549e8,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,50.1,0.0,0.0,"Sep 30, 2026, 12:21:08 PM","Sep 30, 2026, 12:21:57 PM","Sep 30, 2026, 12:21:08 PM",English,7,0.73,4.07,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fBbjOrHc__f08JP9Z3x8fDE4fHx8p7H__sHP2W00vQG87xcK3IbE46wEvzEDNahkjIN7hbKMHw==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20260930/db60ee64-12:21:08-12a549e8&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: क्या आपके पास मैनचेस्टर यूनाइटेड की जर्सी है?
+Assistant: I can definitely help you with that! Do you want a specific player's name printed on the Manchester United jersey, or just a plain one?
+User: ब्लू वन में भी सही रहेगा।
+Assistant: Got it, a blue one! Just to be sure, are you looking for a specific player's name on it, or would you prefer it plain?
+User: Or.
+Assistant: Hmm, sorry, I didn't quite catch that. Did you want a player's name on the jersey, or should we keep it plain?","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: Do you have Manchester United jerseys?
+Agent: I can definitely help you with that! Do you want a specific player's name printed on the Manchester United jersey, or just a plain one?
+User: A blue one would also be fine.
+Agent: Got it, a blue one! Just to be sure, are you looking for a specific player's name on it, or would you prefer it plain?
+User: Or.
+Agent: Hmm, sorry, I didn't quite catch that. Did you want a player's name on the jersey, or should we keep it plain?",50,50,50,50,50,not_interested,"The user called ProKit Jerseys inquiring about the availability of Manchester United jerseys. The user expressed interest in a blue version. The agent attempted to clarify if the user wanted a specific player's name printed on the jersey or a plain one, but the call ended/stalled after the user gave an unclear response ('Or').",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Not specified,S,Not specified,
+ProKit-Jers-0b29894d-70b9,20260930/db60ee64-12:18:24-b8d068be,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,45.48,0.0,0.0,"Sep 30, 2026, 12:18:25 PM","Sep 30, 2026, 12:19:10 PM","Sep 30, 2026, 12:18:25 PM",English,7,0.82,2.92,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fE4rysm2-TUeMGmN8Xx8fDE4fHx8ZZx8Ck4uW8R_88veV7kyHvTr37IlucKaQr6EuYDFoJj-UA==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20260930/db60ee64-12:18:24-b8d068be&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,AGENT_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: आपके पास मैनचेस्टर यूनाइटेड की जर्सी है।
+Assistant: Yes, we do have Manchester United jerseys! Would you like a specific player's name printed on it, or just a plain club jersey?
+User: Can you speak in Hindi?
+Assistant: I am sorry, but I cannot speak in Hindi. I can speak in English and several other Indian languages. Would you like to continue in English?
+User: No thanks.
+Assistant: No problem. Thank you for calling ProKit Jerseys, have a great day!","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: Do you have Manchester United jerseys?
+Agent: Yes, we do have Manchester United jerseys! Would you like a specific player's name printed on it, or just a plain club jersey?
+User: Can you speak in Hindi?
+Agent: I am sorry, but I cannot speak in Hindi. I can speak in English and several other Indian languages. Would you like to continue in English?
+User: No thanks.
+Agent: No problem. Thank you for calling ProKit Jerseys, have a great day!",50,50,50,50,50,not_interested,"The user called ProKit Jerseys inquiring about Manchester United jerseys. After the agent confirmed availability, the user requested to speak in Hindi. The agent informed the user that it cannot speak Hindi and offered to continue in English. The user declined and ended the call.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,None,unspecified,unspecified,
+ProKit-Jers-0b29894d-70b9,20260930/db60ee64-12:15:47-7130f162,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,38.68,0.0,0.0,"Sep 30, 2026, 12:15:47 PM","Sep 30, 2026, 12:16:26 PM","Sep 30, 2026, 12:15:47 PM",English,5,0.75,5.41,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fMw2_qCzRQFMMObp2Xx8fDE4fHx81wdmF9y4ifSF0e2e4onuSeUUdhi8_Ytp54XtEtHLDbsNjQ==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20260930/db60ee64-12:15:47-7130f162&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: नमस्ते, ProKit Jerseys में कॉल करने के लिए शुक्रिया! मैं माया हूँ। आपको क्लब जर्सी चाहिए, नेशनल टीम की, या कुछ और खास ढूंढ रही हैं?
+User: Do you have Manchester United jersey?
+Assistant: Yes, we do! Would you like a specific player's name printed on it, or just the plain club jersey?
+User: Just a plain club jersey.
+Assistant: Got it. And what size would you need? We have small, medium, large, extra large, and double extra large.","Agent: Hello, thank you for calling ProKit Jerseys! I am Maya. Are you looking for a club jersey, a national team one, or something else special?
+User: Do you have Manchester United jersey?
+Agent: Yes, we do! Would you like a specific player's name printed on it, or just the plain club jersey?
+User: Just a plain club jersey.
+Agent: Got it. And what size would you need? We have small, medium, large, extra large, and double extra large.",50,50,50,50,50,not_interested,The user is inquiring about the availability of a Manchester United jersey. The agent confirmed availability and the user specified they want a plain club jersey. The agent is currently asking for the required size.,,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,Plain,unspecified,unspecified,
+ProKit-Jers-0b29894d-70b9,20260930/db60ee64-12:14:10-2d911282,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,78.08,0.0,0.0,"Sep 30, 2026, 12:14:10 PM","Sep 30, 2026, 12:15:19 PM","Sep 30, 2026, 12:14:10 PM",English,9,1.15,3.55,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fN_xS5wQd_M8KT-rQHx8fDE4fHx82cIFj0qExtJ9IcF2IkLa_ek2O9a4s1nzw22KcHPKRHWBFQ==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20260930/db60ee64-12:14:10-2d911282&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: Okay, so I'm in Jersey.
+Assistant: Oh, I think there is a bit of a mix up! I am Maya from ProKit Jerseys, where we sell football jerseys. Are you looking for a team jersey?
+User: आपके पास मैनचेस्टर यूनाइटेड की जर्सी है?
+Assistant: हाँ जी, हमारे पास Manchester United की jersey उपलब्ध है। क्या आप किसी खास player का नाम प्रिंट करवाना चाहते हैं?
+User: नो थैंक्स।
+Assistant: ठीक है। अब आप मुझे अपना size बता दीजिए, ताकि मैं check कर सकूँ कि वो available है या नहीं।
+User: I'm looking for medium size.
+Assistant: Great news! The Manchester United jersey in medium is available. It costs two thousand four hundred ninety nine rupees and will take about four days to deliver. Want to go ahead with it?","Agent: Hi, thanks for calling ProKit Jerseys! I am Maya. Looking for a club jersey, a national team jersey, or something specific?
+User: Okay, so I'm in Jersey.
+Agent: Oh, I think there is a bit of a mix up! I am Maya from ProKit Jerseys, where we sell football jerseys. Are you looking for a team jersey?
+User: Do you have the Manchester United jersey?
+Agent: Yes, we have the Manchester United jersey available. Do you want to get a specific player's name printed on it?
+User: No thanks.
+Agent: Alright. Now please tell me your size, so I can check if it is available or not.
+User: I'm looking for medium size.
+Agent: Great news! The Manchester United jersey in medium is available. It costs two thousand four hundred ninety nine rupees and will take about four days to deliver. Want to go ahead with it?",50,50,50,50,50,not_interested,"The user inquired about the availability of a Manchester United jersey. The agent confirmed availability in medium size, priced at 2,499 rupees with a 4-day delivery timeline. The call ended before the user confirmed the purchase.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,Manchester United,None,M,2499,
+ProKit-Jers-0b29894d-70b9,20260929/db60ee64-16:44:47-c8ec29e7,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,88.58,0.0,0.0,"Sep 29, 2026, 04:44:48 PM","Sep 29, 2026, 04:46:05 PM","Sep 29, 2026, 04:44:48 PM",Telugu,9,0.75,0.72,rgo***@gma***.com,db60ee6430428ae7e5a9eec0200fc50e064846b6629a6e807e97351e71756b83,dmpvY3x8fDAxOWYzOWJhLTAyMjUtNzg1MS1iN2QxLTc1YTcyZTM1MjFjOXx8fOaDQmUPamAY2G4_8nx8fDE4fHx8wpx_5-1gcozdkyLhEDQo5J5Mc9xn_Ui9HZ2XfeY8JvAxGw==,NO_BOT_CONTACT_IDENTIFIER,inbound,1,NO_CAMPAIGN_ID,NO_COHORT_ID,1,https://indus.sarvam.ai/media?org_id=019f39ba-0225-7851-b7d1-75a72e3521c9&workspace_id=019f39ba-022d-780e-8038-c895341b4258&app_id=ProKit-Jers-0b29894d-70b9&interaction_id=20260929/db60ee64-16:44:47-c8ec29e7&audio_hash=merged_audio,NO_JOB_ID,NO_DEPLOYMENT_ID,v2v,websocket,1,NO_FAILURE_REASON,USER_ENDS,0,stitched_audio_v2,9,"Assistant: హాయ్, ProKit Jerseys కి కాల్ చేసినందుకు థాంక్స్! నేను మాయ. మీకు క్లబ్ జెర్సీ కావాలా, నేషనల్ టీమ్ జెర్సీ కావాలా, లేదా ఇంకేదైనా స్పెషల్ గా వెతుకుతున్నారా? హే, ఇంకా ఉన్నారా? మీరు వెతుకుతున్న ఆ జెర్సీ గురించి అడగాలని.
+User: ఓకే.
+Assistant: సరే, మీకు ఏ club లేదా national team జెర్సీ కావాలి? ఏదైనా స్పెషల్ player పేరు ప్రింట్ చేయించాలనుకుంటున్నారా?
+User: మీ దగ్గర ఈ జెర్సీస్ కాకుండా వేరే జెర్సీస్ ఏమైనా ఉన్నాయా?
+Assistant: అంటే, మా దగ్గర చాలా options ఉన్నాయి. ఉదాహరణకు Manchester United, Real Madrid లాంటి club jerseys మరియు India, Brazil లాంటి national team jerseys కూడా ఉన్నాయి. మీకు ఏది నచ్చుతుంది?
+User: మీ దగ్గర అంటార్కిటికా జెర్సీ కూడా ఉందా?
+Assistant: సారీ, అంటార్కిటికా కి టీమ్ లేదు కాబట్టి మా దగ్గర ఆ జెర్సీ లేదు. మీకు వేరే ఏదైనా club లేదా national team జెర్సీ కావాలా?
+User: ప్రస్తుతానికి ఏమొద్దు, తర్వాత నేను చెప్తాను.
+Assistant: పర్వాలేదు, మీ ఇష్టం. మీకు ఎప్పుడు కావాలన్నా మళ్ళీ కాల్ చేయండి. ProKit Jerseys కి కాల్ చేసినందుకు థాంక్స్!","Agent: Hi, thanks for calling ProKit Jerseys! I'm Maya. Do you want a club jersey, a national team jersey, or are you looking for something else special?
+Agent: Hey, are you still there? I wanted to ask about the jersey you are looking for.
+User: Okay.
+Agent: Alright, which club or national team jersey do you want? Do you want to get a specific player's name printed on it?
+User: Do you have any other jerseys besides these?
+Agent: I mean, we have many options. For example, we have club jerseys like Manchester United and Real Madrid, and national team jerseys like India and Brazil. Which one do you like?
+User: Do you also have an Antarctica jersey?
+Agent: Sorry, since Antarctica doesn't have a team, we don't have that jersey. Do you want any other club or national team jersey?
+User: Nothing for now, I will tell you later.
+Agent: No problem, as you wish. Call us again whenever you want. Thanks for calling ProKit Jerseys!",50,50,50,50,50,not_interested,"The customer called ProKit Jerseys to inquire about available jerseys. After the agent listed options for club and national team jerseys, the customer jokingly asked for an Antarctica jersey. The agent clarified that they do not have one as there is no team for Antarctica. The customer then decided they didn't need anything at the moment and ended the call.",,female,default_1789471261660_622,default_1789583782782_159,default_1789728777476_639,default_1790180737907_940,"Antarctica (Requested, but unavailable)",Not mentioned,S,Not mentioned,

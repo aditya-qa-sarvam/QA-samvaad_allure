@@ -1,0 +1,54 @@
+=================================================
+[DND] Opening the DND list
+=================================================
+[DND] Clicked the DND list button.
+[DND] DND list page loaded.
+[DND] The DND list is empty.
+=================================================
+[DND] Adding 2 number(s) to the DND list
+=================================================
+[DND] Adding 1 of 2: 9184645484 ("Automation 1791184645484")
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Add is correctly disabled on an empty form.
+[DND] Entered number "9184645484" with reason "Automation 1791184645484".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919184645484" is on the list
+=================================================
+[DND] SUCCESS: +919184645484 is listed with reason "Automation 1791184645484", added by rgoel766@gmail.com, at 05 Oct 2026, 12:47 PM.
+[DND] Adding 2 of 2: 9184649887 ("Automation 1791184649887")
+[DND] Dismissed 1 toast(s).
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "9184649887" with reason "Automation 1791184649887".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919184649887" is on the list
+=================================================
+[DND] SUCCESS: +919184649887 is listed with reason "Automation 1791184649887", added by rgoel766@gmail.com, at 05 Oct 2026, 12:47 PM.
+[DND] Added 2 number(s) in total.
+[DND] Dismissed 1 toast(s).
+[DND] Exported file: dnd-numbers-2026-10-05.csv
+[DND] Export holds 2 number(s): [ '9184649887', '9184645484' ]
+[DND] Wrote bulk delete CSV: C:\Users\Aditya Yadav\Documents\Project_Work\Version_3.3\playwright demo\test-results\deploy-outboundcampaign-DN-0c371-malformed-values-in-the-CSV-chromium\dnd-bulk-delete.csv
+phone_number
+12345
+99999999999
+abcdefghij
+98765-43210
+
+[DND] Dismissed 1 toast(s).
+[DND] Opened the bulk delete dialog.
+[DND] Bulk delete dialog is open and Delete is disabled.
+[DND] Attached CSV: C:\Users\Aditya Yadav\Documents\Project_Work\Version_3.3\playwright demo\test-results\deploy-outboundcampaign-DN-0c371-malformed-values-in-the-CSV-chromium\dnd-bulk-delete.csv
+[DND] Toast: Bulk delete complete: 1 not found, 3 invalid
+[DND] The bulk delete dialog closed on its own.
+[DND] +919184649887 was correctly left alone.
+[DND] +919184645484 was correctly left alone.
+[DND] Dismissed 1 toast(s).
+[DND] Removed +919184645484 from the DND list.
+[DND] Dismissed 1 toast(s).
+[DND] Removed +919184649887 from the DND list.

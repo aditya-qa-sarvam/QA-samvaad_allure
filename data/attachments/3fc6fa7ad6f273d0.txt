@@ -1,0 +1,9 @@
+Deletable inbound: "demo-1791183588082"
+Lifecycle test is using: demo-1791183588082
+Inbound "demo-1791183588082" is Active: +918065354066.
+Inbound "demo-1791183588082" is Paused: +918065354066.
+Inbound "demo-1791183588082" is Paused: +918065354066.
+Inbound "demo-1791183588082" is Active: +918065354066.
+Inbound "demo-1791183588082" is Active: +918065354066.
+"Add known callers" dialog is open for "demo-1791183588082".
+Attached "known-callers-sample.csv".

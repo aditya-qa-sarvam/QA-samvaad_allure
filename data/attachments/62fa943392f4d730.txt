@@ -1,0 +1,40 @@
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] No tab list -- the page shows only Past campaigns, so there are no Active campaigns.
+No active campaigns found. Create a campaign first.
+No phone numbers are available.
+No unassigned phone numbers available. Unassigning All Numbers.
+Phone numbers found: 10
+Phone numbers to unassign: [
+  '+917971413658',
+  '+917971413918',
+  '+917965853872',
+  '+917965853454',
+  '+917965853811',
+  '+917965853577',
+  '+918065354066',
+  '+918071582911',
+  '+918071582891',
+  '+918071582826'
+]
+Selected +917971413658
+Selected +917971413918
+Selected +917965853872
+Selected +917965853454
+Selected +917965853811
+Selected +917965853577
+Selected +918065354066
+Selected +918071582911
+Selected +918071582891
+Selected +918071582826
+SUCCESS: 10 numbers moved to unassigned
+Detected "Add numbers" state: no-numbers
+No phone numbers to allocate — creating group without numbers.
+Group created successfully: Automation Group 1791184187128
+Created group: Automation Group 1791184187128
+Selected numbers: []
+Group "Automation Group 1791184187128" created successfully without phone numbers.
+[Campaign] Creating "Demo_Camp_1791184191105" (attempt 1 of 2)
+[Agent] Selected "Automation Agent 1788329396588" via search.
+[Agent] Version "v1" is committed.

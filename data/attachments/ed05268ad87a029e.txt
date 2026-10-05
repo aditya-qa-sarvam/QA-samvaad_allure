@@ -1,0 +1,53 @@
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] No tab list -- the page shows only Past campaigns, so there are no Active campaigns.
+[Campaign] No Active campaigns tab at all, so there is no Active campaign.
+No Active campaign of the suite's own to pause. Creating one.
+[Phone Numbers] Table has loaded its rows.
+=================================================
+[getOrCreateGroup] Starting group check...
+=================================================
+[getOrCreateGroup] Waiting for Number column header...
+[getOrCreateGroup] Phone numbers table is visible.
+[getOrCreateGroup] First row locator count: 1
+[getOrCreateGroup] First phone number row exists.
+[getOrCreateGroup] Number of cells in first row: 8
+[getOrCreateGroup] Raw phone number value: "+917971413658"
+[getOrCreateGroup] Trimmed phone number: "+917971413658"
+[getOrCreateGroup] Raw group name value: "—"
+[getOrCreateGroup] Trimmed group name: "—"
+[getOrCreateGroup] No group assigned to phone number "+917971413658".
+[getOrCreateGroup] Calling createGroup()...
+=================================================
+[createGroup] Starting group creation...
+[createGroup] Phone number: "+917971413658"
+=================================================
+[createGroup] Generated group name: "Automation Group 1791184279578"
+[createGroup] Clicking "All groups"...
+[createGroup] "All groups" selector opened.
+[createGroup] Waiting for "Create group" option...
+[createGroup] "Create group" option is visible.
+[createGroup] "Create group" clicked.
+[createGroup] Waiting for "Create Group" dialog...
+[createGroup] "Create Group" dialog is visible.
+[createGroup] Opening phone number selector...
+[createGroup] Phone number selector opened.
+[createGroup] Looking for phone number "+917971413658"...
+[createGroup] Matching phone number options found: 1
+[createGroup] Phone number "+917971413658" is visible.
+[createGroup] Selected phone number: "+917971413658"
+[createGroup] Filling group name: "Automation Group 1791184279578"
+[createGroup] Group name filled.
+[createGroup] Waiting for "Create" button to become enabled...
+[createGroup] "Create" button is enabled.
+[createGroup] "Create" button clicked.
+[createGroup] Waiting for Create Group dialog to close...
+[createGroup] SUCCESS: Group "Automation Group 1791184279578" created successfully.
+[createGroup] RETURNING group name: "Automation Group 1791184279578"
+[getOrCreateGroup] New group created: "Automation Group 1791184279578"
+[getOrCreateGroup] RETURNING newly created group: "Automation Group 1791184279578"
+[Campaign] Creating "Demo_Camp_1791184281934" (attempt 1 of 2)
+[Agent] Selected "Automation Agent 1788329396588" via search.
+[Agent] Version "v1" is committed.
+[Campaign] Step 1 done: agent "Automation Agent 1788329396588", connection "Sarvam Managed (Vobiz)", group "Automation Group 1791184279578".

@@ -1,0 +1,15 @@
+Active campaigns found.
+Campaign names found: [ 'Demo_Camp_1791184468511' ]
+Processing campaign: Demo_Camp_1791184468511
+Connection section is visible
+Phone numbers found: [ '+917971413658' ]
+Phone numbers for Demo_Camp_1791184468511: [ '+917971413658' ]
+All phone numbers used by active campaigns: [ '+917971413658' ]
+Checking number: +917971413658
+Phone number found: +917971413658
+Opened actions menu for +917971413658
+Archive attempted for +917971413658
+Archive API status for +917971413658: 409
+Archive API response for +917971413658: {"error":{"message":"(409) Conflict","type":"conflict","code":409,"data":{"details":"Cannot remove phone numbers that are in use by active campaigns. Numbers: +917971413658. Active campaign IDs: Demo-Camp-1-bb7eac14-e3f8"}}}
+Conflict details for +917971413658: Cannot remove phone numbers that are in use by active campaigns. Numbers: +917971413658. Active campaign IDs: Demo-Camp-1-bb7eac14-e3f8
+SUCCESS: Archive blocked for +917971413658 because it is used by an active outbound campaign

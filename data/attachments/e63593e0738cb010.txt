@@ -1,0 +1,13 @@
+Detected "Add numbers" state: has-numbers
+Selected phone number: +918065354066
+Group created successfully: Automation Group 1791183580457
+SUCCESS: +918065354066 successfully added to "Automation Group 1791183580457"
+Added date: 13 Aug 2026, 10:50 am
+Created group: Automation Group 1791183580457
+Selected numbers: [ '+918065354066' ]
+Inbound "demo-1791183588082" deployed on group "Automation Group 1791183580457".
+Connection block text: 1 connection · 1 number
+
++918065354066
+Copy phone numbers
+Extracted phone numbers: [ '+918065354066' ]

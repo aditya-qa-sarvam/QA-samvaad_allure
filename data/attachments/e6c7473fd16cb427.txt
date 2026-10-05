@@ -1,0 +1,83 @@
+Detected "Add numbers" state: has-numbers
+Selected phone number: +917971413658
+Group created successfully: Automation Group 1791186875017
+SUCCESS: +917971413658 successfully added to "Automation Group 1791186875017"
+Added date: 15 Sept 2026, 03:58 pm
+Created group: Automation Group 1791186875017
+Selected numbers: [ '+917971413658' ]
+Group "Automation Group 1791186875017" was refused: "At least one phone number is required".
+Inbound creation discarded (confirmed the discard prompt).
+Inbound calls list has at least one deployment.
+Inbound calls list: 5 deployment(s)
+  inbound_2 | Active | +917971413658
+  demo-1791183588082-2026-10-05 | Paused | +918065354066
+  inbound | Paused | +917971413918
+  demo-1790588720794-2026-09-28 | Paused | +917965853577
+  demo-1790337659207-2026-09-25 | Active | +917965853454
+Phone numbers used by inbounds (any status): +917971413658, +918065354066, +917971413918, +917965853577, +917965853454
+=================================================
+[listPhoneNumbers] Reading the phone numbers table...
+=================================================
+[listPhoneNumbers] 10 number(s) listed:
+[listPhoneNumbers]   +917971413658  ->  Automation Group 1791186875017
+[listPhoneNumbers]   +917971413918  ->  —
+[listPhoneNumbers]   +917965853872  ->  —
+[listPhoneNumbers]   +917965853454  ->  —
+[listPhoneNumbers]   +917965853811  ->  —
+[listPhoneNumbers]   +917965853577  ->  —
+[listPhoneNumbers]   +918065354066  ->  —
+[listPhoneNumbers]   +918071582911  ->  —
+[listPhoneNumbers]   +918071582891  ->  —
+[listPhoneNumbers]   +918071582826  ->  —
+=================================================
+[createGroupWithNumber] Number: "+917965853872"
+=================================================
+[createGroupWithNumber] +917965853872 is already unassigned.
+=================================================
+[createGroup] Starting group creation...
+[createGroup] Phone number: "+917965853872"
+=================================================
+[createGroup] Generated group name: "Automation Group 1791186887077"
+[createGroup] Clicking "All groups"...
+[createGroup] "All groups" selector opened.
+[createGroup] Waiting for "Create group" option...
+[createGroup] "Create group" option is visible.
+[createGroup] "Create group" clicked.
+[createGroup] Waiting for "Create Group" dialog...
+[createGroup] "Create Group" dialog is visible.
+[createGroup] Opening phone number selector...
+[createGroup] Phone number selector opened.
+[createGroup] Looking for phone number "+917965853872"...
+[createGroup] Matching phone number options found: 1
+[createGroup] Phone number "+917965853872" is visible.
+[createGroup] Selected phone number: "+917965853872"
+[createGroup] Filling group name: "Automation Group 1791186887077"
+[createGroup] Group name filled.
+[createGroup] Waiting for "Create" button to become enabled...
+[createGroup] "Create" button is enabled.
+[createGroup] "Create" button clicked.
+[createGroup] Waiting for Create Group dialog to close...
+[createGroup] SUCCESS: Group "Automation Group 1791186887077" created successfully.
+[createGroup] RETURNING group name: "Automation Group 1791186887077"
+[createGroupWithNumber] SUCCESS: "Automation Group 1791186887077" holds +917965853872.
+=================================================
+[listPhoneNumbers] Reading the phone numbers table...
+=================================================
+[listPhoneNumbers] 10 number(s) listed:
+[listPhoneNumbers]   +917971413658  ->  Automation Group 1791186875017
+[listPhoneNumbers]   +917971413918  ->  —
+[listPhoneNumbers]   +917965853872  ->  Automation Group 1791186887077
+[listPhoneNumbers]   +917965853454  ->  —
+[listPhoneNumbers]   +917965853811  ->  —
+[listPhoneNumbers]   +917965853577  ->  —
+[listPhoneNumbers]   +918065354066  ->  —
+[listPhoneNumbers]   +918071582911  ->  —
+[listPhoneNumbers]   +918071582891  ->  —
+[listPhoneNumbers]   +918071582826  ->  —
+[prepareInboundPhoneGroup] SUCCESS: "Automation Group 1791186887077" holds +917965853872.
+Inbound "demo-1791186890332" deployed on group "Automation Group 1791186887077".
+Connection block text: 1 connection · 1 number
+
++917965853872
+Copy phone numbers
+Extracted phone numbers: [ '+917965853872' ]

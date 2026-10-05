@@ -1,0 +1,133 @@
+[Phone Numbers] Table has loaded its rows.
+=================================================
+[getOrCreateGroup] Starting group check...
+=================================================
+[getOrCreateGroup] Waiting for Number column header...
+[getOrCreateGroup] Phone numbers table is visible.
+[getOrCreateGroup] First row locator count: 1
+[getOrCreateGroup] First phone number row exists.
+[getOrCreateGroup] Number of cells in first row: 8
+[getOrCreateGroup] Raw phone number value: "+917971413658"
+[getOrCreateGroup] Trimmed phone number: "+917971413658"
+[getOrCreateGroup] Raw group name value: "—"
+[getOrCreateGroup] Trimmed group name: "—"
+[getOrCreateGroup] No group assigned to phone number "+917971413658".
+[getOrCreateGroup] Calling createGroup()...
+=================================================
+[createGroup] Starting group creation...
+[createGroup] Phone number: "+917971413658"
+=================================================
+[createGroup] Generated group name: "Automation Group 1791192349343"
+[createGroup] Clicking "All groups"...
+[createGroup] "All groups" selector opened.
+[createGroup] Waiting for "Create group" option...
+[createGroup] "Create group" option is visible.
+[createGroup] "Create group" clicked.
+[createGroup] Waiting for "Create Group" dialog...
+[createGroup] "Create Group" dialog is visible.
+[createGroup] Opening phone number selector...
+[createGroup] Phone number selector opened.
+[createGroup] Looking for phone number "+917971413658"...
+[createGroup] Matching phone number options found: 1
+[createGroup] Phone number "+917971413658" is visible.
+[createGroup] Selected phone number: "+917971413658"
+[createGroup] Filling group name: "Automation Group 1791192349343"
+[createGroup] Group name filled.
+[createGroup] Waiting for "Create" button to become enabled...
+[createGroup] "Create" button is enabled.
+[createGroup] "Create" button clicked.
+[createGroup] Waiting for Create Group dialog to close...
+[createGroup] SUCCESS: Group "Automation Group 1791192349343" created successfully.
+[createGroup] RETURNING group name: "Automation Group 1791192349343"
+[getOrCreateGroup] New group created: "Automation Group 1791192349343"
+[getOrCreateGroup] RETURNING newly created group: "Automation Group 1791192349343"
+=================================================
+[DND] Opening the DND list
+=================================================
+[DND] Clicked the DND list button.
+[DND] DND list page loaded.
+[DND] +919999999999 is not on the list. Nothing to remove.
+[DND] Dismissed 1 toast(s).
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "8791127723" with reason "Should be skipped by the campaign".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+918791127723" is on the list
+=================================================
+[DND] SUCCESS: +918791127723 is listed with reason "Should be skipped by the campaign", added by rgoel766@gmail.com, at 05 Oct 2026, 02:55 PM.
+[DND] Added +918791127723 to the list.
+On the DND list: +918791127723. Control (not on the list): +919999999999.
+[E2E outbound] Wrote cohort CSV (2 row(s)): C:\Users\Aditya Yadav\Documents\Project_Work\Version_3.3\playwright demo\test-results\deploy-outboundcampaign-DND-list-Positive-Skip-DND-numbers-chromium\dnd-skip-cohort.csv
+Campaign starts on the Now tab and ends 3:02:00 PM, calls allowed 08:00-20:00.
+[Campaign] Creating "Demo_Camp_1791192355650" (attempt 1 of 2)
+[Agent] Selected "Automation Agent 1788329396588" via search.
+[Agent] Version "v1" is committed.
+[Campaign] Step 1 done: agent "Automation Agent 1788329396588", connection "Sarvam Managed (Vobiz)", group "Automation Group 1791192349343".
+[Campaign] Phone Number -> phone_number (mapped automatically by the app).
+[Campaign] Step 2 done: cohort "dnd-skip-cohort.csv", phone column "phone_number".
+[Schedule] start: Now
+[Schedule] end: Custom, Oct 5, 2026 · 03:02 PM
+[Schedule] Calls allowed between 08:00 and 20:00
+[Schedule] Effective: start "Now", end "Oct 05, 2026 · 03:02 PM", 0.5/s, days "M T W T F S S", calls 08:00 AM - 08:00 PM, retry 3x every 30 min on Busy, No Answer, Failed, Provider Error, Internal Error
+[Campaign] Step 3 done: schedule set.
+=================================================
+[Review] Checking the Review step against what was entered
+=================================================
+[Review] WARNING: Review names the agent "Jersey Store Sales Assistant" but "Automation Agent 1788329396588" was selected. The Review prints the name saved in version v1; if the agent was renamed after that version was committed, this is expected. Otherwise the wrong agent may have been picked.
+[Review] Agent: "Jersey Store Sales Assistant · v1" | Campaign: "Demo_Camp_1791192355650" | Connection: "fc0af4b6-25-2fc2a5c1-d3d5" | Numbers: +917971413658
+[Review] File: "dnd-skip-cohort.csv" | Rows: "2 valid · 0 removed"
+[Review] Schedule: "Now" -> "Oct 5, 2026, 03:02 PM" | Allowed time: "08:00 – 20:00" | Days: "M T W T F S S" | CPS: "0.5 calls/sec"
+[Review] Retries: "3 retries · every 30 min · on Busy, No Answer, Failed" | Error retries: "Provider Error · 3x / 5 min · Internal Error · 3x / 5 min"
+[Review] SUCCESS: the Review step matches what was entered. Launching.
+[Campaign] Toast after Launch: "Campaign created successfully"
+[Campaign] "Demo_Camp_1791192355650" launched successfully.
+Cohort of 2: 2 valid, 0 removed.
+[Campaign] Metrics: audience 2, completion 0%, pick up 0%
+NOTE: the cohort kept both numbers (2 valid, 0 removed) even though +918791127723 is on the DND list. Exclusion, if it happens, happens when the call is placed.
+[Campaign] Waiting for "Demo_Camp_1791192355650" to become Active (up to 4 min).
+[Campaign] 2:56:14 PM  status: Scheduled
+[Campaign] 2:56:31 PM  status: Scheduled
+[Campaign] 2:56:47 PM  status: Scheduled
+[Campaign] 2:57:06 PM  status: Scheduled
+[Campaign] 2:57:23 PM  status: Scheduled
+[Campaign] 2:57:40 PM  status: Scheduled
+[Campaign] 2:57:59 PM  status: Scheduled
+[Campaign] 2:58:16 PM  status: Active
+[Campaign] "Demo_Camp_1791192355650" is Active.
+=================================================
+[Campaign] Waiting for "Demo_Camp_1791192355650" to end. Scheduled end 3:02:00 PM, deadline 3:05:00 PM.
+=================================================
+[Campaign] 2:58:18 PM  status: Active  (222s to scheduled end, server time)  [server clock -1s]
+[Campaign] 2:58:51 PM  status: Active  (191s to scheduled end, server time)  [server clock -2s]
+[Campaign] 2:59:23 PM  status: Active  (158s to scheduled end, server time)  [server clock -2s]
+[Campaign] 2:59:55 PM  status: Active  (126s to scheduled end, server time)  [server clock -1s]
+[Campaign] 3:00:29 PM  status: Active  (92s to scheduled end, server time)  [server clock -1s]
+[Campaign] 3:01:03 PM  status: Active  (58s to scheduled end, server time)  [server clock -1s]
+[Campaign] 3:01:37 PM  status: Active  (24s to scheduled end, server time)  [server clock -1s]
+[Campaign] 3:02:09 PM  status: Ended  (7s after scheduled end, server time)  [server clock -2s]
+[Campaign] "Demo_Camp_1791192355650" has Ended.
+[Campaign] Attempted calls: 2 row(s), 2 distinct number(s), 0 connected, 1 blocked by DND
+[Campaign]   4226a656a357...  busy
+[Campaign]   a7111547d2f7...  UNKNOWN  (Blocked by guardrail: Dnd Blocked)
+[Campaign] Opened Agent Analytics.
+=================================================
+[Agent Analytics] Verifying Overview metrics
+=================================================
+[Agent Analytics] Calls attempted: 1
+[Agent Analytics] Connected calls: 0
+[Agent Analytics] Latency: 0 ms
+[Agent Analytics] Avg call duration: 00:00
+[Agent Analytics] Total minutes: 0
+[Agent Analytics] Short calls: 0
+=================================================
+[Agent Analytics] Verifying metric relationships
+=================================================
+[Agent Analytics] Overview metric relationships are valid.
+=================================================
+[Agent Analytics] Opening "Call Logs"
+=================================================
+[Agent Analytics] "Call Logs" loaded, showing All.
+[Agent Analytics] Call Logs: 1 row(s), User Contact ending ...9999
+[DND] DND HONOURED: the cohort held 2 numbers and both reached Attempted Calls, +918791127723 was stopped with "Blocked by guardrail: Dnd Blocked", 1 call was placed, and Call Logs names the number dialled as ...9999 -- the control, not the DND number.

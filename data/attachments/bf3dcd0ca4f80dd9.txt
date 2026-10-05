@@ -1,0 +1,24 @@
+=================================================
+[DND] Opening the DND list
+=================================================
+[DND] Clicked the DND list button.
+[DND] DND list page loaded.
+=================================================
+[DND] Adding 1 number(s) to the DND list
+=================================================
+[DND] Adding 1 of 1: 9184559253 ("Automation 1791184559253")
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Add is correctly disabled on an empty form.
+[DND] Entered number "9184559253" with reason "Automation 1791184559253".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919184559253" is on the list
+=================================================
+[DND] SUCCESS: +919184559253 is listed with reason "Automation 1791184559253", added by rgoel766@gmail.com, at 05 Oct 2026, 12:45 PM.
+[DND] Added 1 number(s) in total.
+[DND] Dismissed 1 toast(s).
+[DND] Cancelled the removal of +919184559253.
+[DND] +919184559253 was correctly left alone.
+[DND] Removed +919184559253 from the DND list.

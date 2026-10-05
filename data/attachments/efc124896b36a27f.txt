@@ -1,8 +1,0 @@
-Detected "Add numbers" state: has-numbers
-Selected phone number: +918071582891
-Selected phone number: +918071582826
-Group created successfully: Automation Group 1790590689346
-SUCCESS: +918071582891 successfully added to "Automation Group 1790590689346"
-Added date: 4 Aug 2026, 10:20 am
-SUCCESS: +918071582826 successfully added to "Automation Group 1790590689346"
-Added date: 3 Aug 2026, 04:51 pm

@@ -1,2 +1,0 @@
-Variable Name: auto_var_1790588474578_81
-Default Value: 50

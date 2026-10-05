@@ -1,4 +1,0 @@
-Variable name: auto_var_1790588461671_545
-Default value: default_1790588461671_606
-Updated name: updated_var_1790588461671_264
-Updated default value: updated_default_1790588461671

@@ -1,0 +1,15 @@
+Phone number is available.
+Detected "Add numbers" state: has-numbers
+Selected phone number: +918071582911
+Selected phone number: +918071582891
+Group created successfully: Automation Group 1791183887311
+Created group: Automation Group 1791183887311
+Selected numbers: [ '+918071582911', '+918071582891' ]
+SUCCESS: +918071582911 successfully added to "Automation Group 1791183887311"
+Added date: 4 Aug 2026, 10:28 am
+SUCCESS: +918071582891 successfully added to "Automation Group 1791183887311"
+Added date: 4 Aug 2026, 10:20 am
+[Campaign] Creating "Demo_Camp_1791183890744" (attempt 1 of 2)
+[Agent] Selected "Automation Agent 1788329396588" via search.
+[Agent] Version "v1" is committed.
+[Campaign] Step 1 done: agent "Automation Agent 1788329396588", connection "Sarvam Managed (Vobiz)", group "Automation Group 1791183887311".

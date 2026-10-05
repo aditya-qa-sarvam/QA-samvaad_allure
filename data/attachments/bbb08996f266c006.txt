@@ -1,0 +1,7 @@
+Phone number is available.
+Detected "Add numbers" state: has-numbers
+Selected phone number: +917965853811
+Selected phone number: +917965853577
+Group created successfully: Automation Group 1791187490678
+Created group: Automation Group 1791187490678
+Selected numbers: [ '+917965853811', '+917965853577' ]

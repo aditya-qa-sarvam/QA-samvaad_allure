@@ -1,0 +1,15 @@
+"Outbound Campaigns" heading is visible.
+INFO: "Active campaigns" tab is not visible.
+No active campaigns found. Create a campaign first.
+Phone number is available.
+Detected "Add numbers" state: has-numbers
+Selected phone number: +918071582826
+Group created successfully: Automation Group 1791184011197
+Created group: Automation Group 1791184011197
+Selected numbers: [ '+918071582826' ]
+SUCCESS: +918071582826 successfully added to "Automation Group 1791184011197"
+Added date: 3 Aug 2026, 04:51 pm
+[Campaign] Creating "Demo_Camp_1791184013892" (attempt 1 of 2)
+[Agent] Selected "Automation Agent 1788329396588" via search.
+[Agent] Version "v1" is committed.
+[Campaign] Step 1 done: agent "Automation Agent 1788329396588", connection "Sarvam Managed (Vobiz)", group "Automation Group 1791184011197".
