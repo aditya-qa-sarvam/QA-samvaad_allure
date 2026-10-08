@@ -1,3 +1,0 @@
-Attached "known-callers-sample.csv".
-Phone Number -> phone_number (mapped automatically by the app).
-Known-callers list added: demo1791186987979

@@ -1,4 +1,0 @@
-=================================================
-[Status Filter] Opening tab: "Active campaigns"
-=================================================
-[Status Filter] No tab list -- the page shows only Past campaigns, so there are no Active campaigns.

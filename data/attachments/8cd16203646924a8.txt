@@ -1,6 +1,0 @@
-Selected preset "Today": Oct 05, 2026 - Oct 05, 2026
-Selected preset "Last 14 days": Sep 22, 2026 - Oct 05, 2026
-Selected last 15 days: Sep 21, 2026 - Oct 05, 2026
-[Call Logs] Read 1-100 of 296. Turning the page.
-[Call Logs] Read 101-200 of 296. Turning the page.
-Selected preset "Last 7 days": Sep 29, 2026 - Oct 05, 2026

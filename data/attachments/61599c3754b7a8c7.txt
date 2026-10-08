@@ -1,6 +1,0 @@
-Checking group: Automation Group 1791184702883
-EMPTY GROUP FOUND: Automation Group 1791184702883
-Delete dialog opened for empty group: Automation Group 1791184702883
-Delete confirmed for group: Automation Group 1791184702883
-SUCCESS: Empty group "Automation Group 1791184702883" deleted successfully
-Test completed. Deleted group: Automation Group 1791184702883

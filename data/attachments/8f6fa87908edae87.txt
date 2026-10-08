@@ -1,2 +1,0 @@
-"Add known callers" dialog is open.
-Attached "known-callers-sample.csv".

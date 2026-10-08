@@ -1,2 +1,0 @@
-"Outbound Campaigns" heading is visible.
-INFO: "Active campaigns" tab is not visible.

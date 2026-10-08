@@ -1,4 +1,0 @@
-Open deployment: "demo-1791183588082-2026-10-05".
-Adding known callers to: demo-1791183588082-2026-10-05
-"Add known callers" dialog is open for "demo-1791183588082-2026-10-05".
-Attached "known-callers-sample.csv".

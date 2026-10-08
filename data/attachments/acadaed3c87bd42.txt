@@ -1,6 +1,0 @@
-Checking group: Automation Group 1791184279578
-EMPTY GROUP FOUND: Automation Group 1791184279578
-Empty group selected: Automation Group 1791184279578
-Delete dialog opened for empty group: Automation Group 1791184279578
-Group deletion cancelled successfully
-SUCCESS: Group "Automation Group 1791184279578" still exists after cancelling deletion

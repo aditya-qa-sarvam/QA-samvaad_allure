@@ -1,2 +1,0 @@
-Inbound calls list has at least one deployment.
-[Inbound Search] Read 5 inbound(s): demo-1791183588082, inbound, demo-1790588720794-2026-09-28, demo-1790341037566-2026-09-25, demo-1790337659207-2026-09-25
