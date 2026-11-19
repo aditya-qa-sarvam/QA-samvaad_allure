@@ -1,0 +1,22 @@
+=================================================
+[DND] Opening the DND list
+=================================================
+[DND] Clicked the DND list button.
+[DND] DND list page loaded.
+Phone number to add twice: 9075744987
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "9075744987" with reason "Automation 1795075744987".
+[DND] Success toast shown.
+[DND] Number submitted and the dialog closed.
+=================================================
+[DND] Verifying "+919075744987" is on the list
+=================================================
+[DND] SUCCESS: +919075744987 is listed with reason "Automation 1795075744987", added by rgoel766@gmail.com, at 19 Nov 2026, 01:39 PM.
+[DND] Clicked the add number button.
+[DND] Add DND numbers dialog is open.
+[DND] Entered number "9075744987" with reason "Automation 1795075744987".
+[DND] Duplicate number was correctly rejected.
+[DND] Add DND numbers dialog closed.
+[DND] Dismissed 2 toast(s).
+[DND] Removed +919075744987 from the DND list.

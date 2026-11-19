@@ -1,0 +1,27 @@
+Login completed
+Tools page opened
+SUCCESS: Data Validator form opened
+Data Validator name: Month_check855
+Data Validator description entered
+Input source verified: Agent variable
+Input source verified: Let the agent decide
+Input source final state = Fixed value
+Value type verified: Number
+Value type verified: Date
+Value type verified: Time
+Value type verified: Date & time
+Value type final state = String
+Input source = Let the agent decide, Pattern = December
+Success / Fail / Error messages entered
+Include in context toggle verified. Final state = true
+Data Validator added
+Looking for Data Validator: Month Check855
+SUCCESS: Month Check855 found in Tools table
+Created Data Validator: Month_check855
+SUCCESS: Month Check855 found using Tools search
+Removing Data Validator: Month Check855
+Data Validator found: Month Check855
+Row actions opened
+SUCCESS: Data Validator Month Check855 removed
+SUCCESS: Month Check855 no longer appears in search
+SUCCESS TEST 2: Month_check855 searched and removed

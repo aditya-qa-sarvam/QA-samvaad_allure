@@ -1,0 +1,127 @@
+Inbound calls list has at least one deployment.
+Inbounds are listed, but none is Active.
+Inbound calls list has at least one deployment.
+Inbound calls list: 3 deployment(s)
+  demo-1795074491821-2026-11-19 | Paused | +917965853872
+  demo-1795069061522-2026-11-19 | Paused | +918065382911
+  demo-1795065080012-2026-11-19 | Paused | +917971413658
+Phone numbers used by inbounds (any status): +917965853872, +918065382911, +917971413658
+=================================================
+[listPhoneNumbers] Reading the phone numbers table...
+=================================================
+[listPhoneNumbers] 12 number(s) listed:
+[listPhoneNumbers]   +917965860814  ->  —
+[listPhoneNumbers]   +918065382911  ->  Automation Group 1795074475029
+[listPhoneNumbers]   +918064261726  ->  —
+[listPhoneNumbers]   +917971413658  ->  —
+[listPhoneNumbers]   +917971413918  ->  —
+[listPhoneNumbers]   +917965853872  ->  Automation Group 1795074489160
+[listPhoneNumbers]   +917965853454  ->  —
+[listPhoneNumbers]   +917965853811  ->  Automation Group 1795074217849
+[listPhoneNumbers]   +917965853577  ->  —
+[listPhoneNumbers]   +918065354066  ->  —
+[listPhoneNumbers]   +918071582891  ->  —
+[listPhoneNumbers]   +918071582826  ->  —
+=================================================
+[createGroupWithNumber] Number: "+917965853811"
+=================================================
+[createGroupWithNumber] +917965853811 is in "Automation Group 1795074217849". Moving it to unassigned first.
+Move to unassigned clicked
+[createGroupWithNumber] +917965853811 is now unassigned.
+=================================================
+[createGroup] Starting group creation...
+[createGroup] Phone number: "+917965853811"
+=================================================
+[createGroup] Generated group name: "Automation Group 1795074632413"
+[createGroup] Clicking "All groups"...
+[createGroup] "All groups" selector opened.
+[createGroup] Waiting for "Create group" option...
+[createGroup] "Create group" option is visible.
+[createGroup] "Create group" clicked.
+[createGroup] Waiting for "Create Group" dialog...
+[createGroup] "Create Group" dialog is visible.
+[createGroup] Opening phone number selector...
+[createGroup] Phone number selector opened.
+[createGroup] Looking for phone number "+917965853811"...
+[createGroup] Matching phone number options found: 1
+[createGroup] Phone number "+917965853811" is visible.
+[createGroup] Selected phone number: "+917965853811"
+[createGroup] Filling group name: "Automation Group 1795074632413"
+[createGroup] Group name filled.
+[createGroup] Waiting for "Create" button to become enabled...
+[createGroup] "Create" button is enabled.
+[createGroup] "Create" button clicked.
+[createGroup] Waiting for Create Group dialog to close...
+[createGroup] Toast confirmed: 'Group "Automation Group 1795074632413" created with 1 number'
+[createGroup] SUCCESS: Group "Automation Group 1795074632413" created successfully.
+[createGroup] RETURNING group name: "Automation Group 1795074632413"
+[createGroupWithNumber] SUCCESS: "Automation Group 1795074632413" holds +917965853811.
+Inbound "demo-1795074635547" deployed on group "Automation Group 1795074632413".
+Connection block text: Phone numbers
+
++917965853811
+
+Copy phone numbers
+Dial with +91 or 0 prefix
+Extracted phone numbers: [ '+917965853811' ]
+Back on the Inbound calls list.
+Active inbound deployment found
+Active inbound deployment opened
+Connection block text: Phone numbers
+
++917965853811
+
+Copy phone numbers
+Dial with +91 or 0 prefix
+Extracted phone numbers: [ '+917965853811' ]
+Phone number used by active inbound: +917965853811
+Copied the deployment's phone numbers.
+=================================================
+[createGroupWithNumber] Number: "+917965853811"
+=================================================
+[createGroupWithNumber] +917965853811 is in "Automation Group 1795074632413". Moving it to unassigned first.
+Move to unassigned clicked
+[createGroupWithNumber] +917965853811 is now unassigned.
+=================================================
+[createGroup] Starting group creation...
+[createGroup] Phone number: "+917965853811"
+=================================================
+[createGroup] Generated group name: "Automation Group 1795074649055"
+[createGroup] Clicking "All groups"...
+[createGroup] "All groups" selector opened.
+[createGroup] Waiting for "Create group" option...
+[createGroup] "Create group" option is visible.
+[createGroup] "Create group" clicked.
+[createGroup] Waiting for "Create Group" dialog...
+[createGroup] "Create Group" dialog is visible.
+[createGroup] Opening phone number selector...
+[createGroup] Phone number selector opened.
+[createGroup] Looking for phone number "+917965853811"...
+[createGroup] Matching phone number options found: 1
+[createGroup] Phone number "+917965853811" is visible.
+[createGroup] Selected phone number: "+917965853811"
+[createGroup] Filling group name: "Automation Group 1795074649055"
+[createGroup] Group name filled.
+[createGroup] Waiting for "Create" button to become enabled...
+[createGroup] "Create" button is enabled.
+[createGroup] "Create" button clicked.
+[createGroup] Waiting for Create Group dialog to close...
+[createGroup] Toast confirmed: 'Group "Automation Group 1795074649055" created with 1 number'
+[createGroup] SUCCESS: Group "Automation Group 1795074649055" created successfully.
+[createGroup] RETURNING group name: "Automation Group 1795074649055"
+[createGroupWithNumber] SUCCESS: "Automation Group 1795074649055" holds +917965853811.
+Group "Automation Group 1795074649055" was refused: "At least one phone number is required".
+By group refused: "At least one phone number is required".
+By number refused: "+917965853811" -> "No results found".
+Cancel opened the "Discard deployment?" prompt.
+Keep editing closed the prompt; the form is still open.
+Added a connection block (2 blocks now).
+Cancel opened the "Discard deployment?" prompt.
+Close (x) closed the prompt; the form is still open.
+Removed a connection block (1 blocks now).
+Cancel opened the "Discard deployment?" prompt.
+Discard closed the form; back on the Inbound calls list.
+Inbound calls list has at least one deployment.
+Opened inbound "demo-1795074635547".
+Delete Deployment dialog is open with Cancel, Delete and Close.
+Inbound "demo-1795074635547" deleted: toast shown and gone from the list.

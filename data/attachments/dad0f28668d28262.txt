@@ -1,0 +1,6 @@
+Selected preset "Today": Nov 19, 2026 - Nov 19, 2026
+Selected preset "Last 7 days": Nov 13, 2026 - Nov 19, 2026
+Selected preset "Last 14 days": Nov 06, 2026 - Nov 19, 2026
+Selected preset "Last 30 days": Oct 21, 2026 - Nov 19, 2026
+Selected preset "Last 60 days": Sep 21, 2026 - Nov 19, 2026
+Selected preset "Last 90 days": Aug 22, 2026 - Nov 19, 2026

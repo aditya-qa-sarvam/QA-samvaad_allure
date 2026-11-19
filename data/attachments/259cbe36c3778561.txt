@@ -1,0 +1,50 @@
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] "Active campaigns" tab is selected.
+[Status Filter] Dropdown opened.
+[Status Filter] Applied filter: "All statuses"
+=================================================
+[Campaign Search] Searching for: "Demo_Camp_1795074790772"
+=================================================
+[Campaign Search] Typed "Demo_Camp_1795074790772".
+=================================================
+[Campaign] Waiting for "Demo_Camp_1795074790772" to end. Scheduled end 1:31:00 PM, deadline 1:34:00 PM.
+=================================================
+[Campaign] 1:28:16 PM  status: Active  (165s to scheduled end, server time)  [server clock -1s]
+[Campaign] 1:28:49 PM  status: Active  (132s to scheduled end, server time)  [server clock -2s]
+[Campaign] 1:29:23 PM  status: Active  (99s to scheduled end, server time)  [server clock -2s]
+[Campaign] 1:29:56 PM  status: Active  (66s to scheduled end, server time)  [server clock -2s]
+[Campaign] 1:30:29 PM  status: Active  (33s to scheduled end, server time)  [server clock -2s]
+[Campaign] 1:31:01 PM  status: Active  (-1s to scheduled end, server time)  [server clock -1s]
+[Campaign] 1:31:34 PM  status: Ended  (33s after scheduled end, server time)  [server clock -2s]
+[Campaign] "Demo_Camp_1795074790772" has Ended.
+[Campaign] Metrics: audience 1, completion 100%, pick up 0%
+Final metrics for "Demo_Camp_1795074790772": audience 1, completion 100%, pick-up 0%.
+=================================================
+[Campaign] Checking "Demo_Camp_1795074790772" moved to Past campaigns
+=================================================
+=================================================
+[Status Filter] Opening tab: "Past campaigns"
+=================================================
+[Status Filter] "Past campaigns" tab is selected.
+[Status Filter] Dropdown opened.
+[Status Filter] Applied filter: "All statuses"
+=================================================
+[Campaign Search] Searching for: "Demo_Camp_1795074790772"
+=================================================
+[Campaign Search] Typed "Demo_Camp_1795074790772".
+[Campaign] "Demo_Camp_1795074790772" is on Past campaigns as Ended.
+[Campaign Search] Cleared the search box.
+=================================================
+[Status Filter] Opening tab: "Active campaigns"
+=================================================
+[Status Filter] "Active campaigns" tab is selected.
+[Status Filter] Dropdown opened.
+[Status Filter] Applied filter: "All statuses"
+=================================================
+[Campaign Search] Searching for: "Demo_Camp_1795074790772"
+=================================================
+[Campaign Search] Typed "Demo_Camp_1795074790772".
+[Campaign] "Demo_Camp_1795074790772" is no longer under Active campaigns.
+[Campaign Search] Cleared the search box.

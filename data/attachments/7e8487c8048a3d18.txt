@@ -1,0 +1,12 @@
+Checking group: Automation Group 1795075881646
+Group "Automation Group 1795075881646" contains phone numbers. Checking next group.
+Checking group: Automation Group 1795074719429
+Group "Automation Group 1795074719429" contains phone numbers. Checking next group.
+Checking group: Automation Group 1795074690771
+Group "Automation Group 1795074690771" contains phone numbers. Checking next group.
+Checking group: Automation Group 1795074632413
+EMPTY GROUP FOUND: Automation Group 1795074632413
+Empty group selected: Automation Group 1795074632413
+Delete dialog opened for empty group: Automation Group 1795074632413
+Group deletion cancelled successfully
+SUCCESS: Group "Automation Group 1795074632413" still exists after cancelling deletion

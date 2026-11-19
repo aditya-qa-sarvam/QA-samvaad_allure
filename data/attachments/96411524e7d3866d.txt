@@ -1,0 +1,11 @@
+[Boards] Clean-up failed, demo-shorttag-1795076324873 may be left behind: Error: expect(locator).toBeVisible() failed
+
+Locator: getByRole('complementary').getByRole('link', { name: 'Boards', exact: true })
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 15000ms
+  - waiting for getByRole('complementary').getByRole('link', { name: 'Boards', exact: true })
+

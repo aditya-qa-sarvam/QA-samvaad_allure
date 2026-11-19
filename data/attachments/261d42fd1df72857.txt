@@ -1,0 +1,9 @@
+Inbound calls list has at least one deployment.
+An inbound matching "demo-" is listed.
+Open deployment: "demo-1795074491821-2026-11-19".
+Adding known callers to: demo-1795074491821-2026-11-19
+"Add known callers" dialog is open for "demo-1795074491821-2026-11-19".
+Attached "known-callers-sample.csv".
+Phone Number -> phone_number (mapped automatically by the app).
+Known-callers list "Parichit_Callers445" submitted.
+"Parichit_Callers445" reached Completed: Parichit_Callers445 Completed 1 / 1 Nov 19, 2026, 01:19 PM

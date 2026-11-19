@@ -1,0 +1,38 @@
+Active campaigns found.
+Active/Scheduled campaign names found: [ 'Demo_Camp_1795069446674', 'Demo_Camp_1795027029228' ]
+Processing campaign: Demo_Camp_1795069446674
+Connection section is visible
+Phone numbers found: [ '+917971413658', '+917965853577' ]
+Phone numbers for Demo_Camp_1795069446674: [ '+917971413658', '+917965853577' ]
+Processing campaign: Demo_Camp_1795027029228
+Connection section is visible
+Phone numbers found: [ '+918065382911' ]
+Phone numbers for Demo_Camp_1795027029228: [ '+918065382911' ]
+All phone numbers used by active campaigns: [ '+917971413658', '+917965853577', '+918065382911' ]
+Checking number: +917971413658
+Phone number found: +917971413658
+Opened actions menu for +917971413658
+Archive attempted for +917971413658
+Archive API status for +917971413658: 409
+Archive API response for +917971413658: {"error":{"message":"(409) Conflict","type":"conflict","code":409,"data":{"details":"Operation not allowed for endpoints with active deployments: +917971413658"}}}
+[Archive] Conflict dialog for +917971413658 checked and closed.
+Conflict details for +917971413658: Operation not allowed for endpoints with active deployments: +917971413658
+SUCCESS: Archive blocked for +917971413658 because it has an active deployment
+Checking number: +917965853577
+Phone number found: +917965853577
+Opened actions menu for +917965853577
+Archive attempted for +917965853577
+Archive API status for +917965853577: 409
+Archive API response for +917965853577: {"error":{"message":"(409) Conflict","type":"conflict","code":409,"data":{"details":"Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853577. Active campaign IDs: Demo-Camp-1-ac9a7bfd-f86d"}}}
+[Archive] Conflict dialog for +917965853577 checked and closed.
+Conflict details for +917965853577: Cannot remove phone numbers that are in use by active campaigns. Numbers: +917965853577. Active campaign IDs: Demo-Camp-1-ac9a7bfd-f86d
+SUCCESS: Archive blocked for +917965853577 because it is used by an active outbound campaign
+Checking number: +918065382911
+Phone number found: +918065382911
+Opened actions menu for +918065382911
+Archive attempted for +918065382911
+Archive API status for +918065382911: 409
+Archive API response for +918065382911: {"error":{"message":"(409) Conflict","type":"conflict","code":409,"data":{"details":"Operation not allowed for endpoints with active deployments: +918065382911"}}}
+[Archive] Conflict dialog for +918065382911 checked and closed.
+Conflict details for +918065382911: Operation not allowed for endpoints with active deployments: +918065382911
+SUCCESS: Archive blocked for +918065382911 because it has an active deployment
